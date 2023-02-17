@@ -3,7 +3,7 @@
         [
             "VE 1",
             "0001",
-            "eš₂-bar-kin₅",
+            "eš<sub>2</sub>-bar-kin<sub>5</sub>",
             "Incipt",
             ";",
             ""
@@ -11,7 +11,7 @@
         [
             "VE 2",
             "0002",
-            "niŋ₂-tum₂",
+            "niĝ<sub>2</sub>-tum<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -19,7 +19,7 @@
         [
             "VE 3",
             "0003",
-            "niŋ₂-šu-tum₂",
+            "niĝ<sub>2</sub>-šu-tum<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -27,7 +27,7 @@
         [
             "VE 4",
             "0004",
-            "⸢niŋ₂-da⸣-tum₂",
+            "⸢niĝ<sub>2</sub>-da⸣-tum<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -35,7 +35,7 @@
         [
             "VE 5",
             "0005",
-            "niŋ₂-gu₂-tum₂",
+            "niĝ<sub>2</sub>-gu<sub>2</sub>-tum<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -43,7 +43,7 @@
         [
             "VE 6",
             "0006",
-            "niŋ₂-dug-tum₂",
+            "niĝ<sub>2</sub>-dug-tum<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -51,7 +51,7 @@
         [
             "VE 7",
             "0007",
-            "niŋ₂-dug-UR-tum₂",
+            "niĝ<sub>2</sub>-dug-UR-tum<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -59,7 +59,7 @@
         [
             "VE 8",
             "0008",
-            "niŋ₂-...-te",
+            "niĝ<sub>2</sub>-...-te",
             "NINDA",
             ";",
             ""
@@ -67,7 +67,7 @@
         [
             "VE 9",
             "0009",
-            "niŋ₂-...-gar",
+            "niĝ<sub>2</sub>-...-gar",
             "NINDA",
             ";",
             ""
@@ -75,7 +75,7 @@
         [
             "VE 10",
             "0010",
-            "niŋ₂-...-ar",
+            "niĝ<sub>2</sub>-...-ar",
             "NINDA",
             ";",
             ""
@@ -83,7 +83,7 @@
         [
             "VE 11",
             "0011",
-            "niŋ₂-⸢kas₄⸣",
+            "niĝ<sub>2</sub>-⸢kas<sub>4</sub>⸣",
             "NINDA",
             ";",
             ""
@@ -91,7 +91,7 @@
         [
             "VE 12",
             "0012",
-            "niŋ₂-muš₃-tum₂",
+            "niĝ<sub>2</sub>-muš<sub>3</sub>-tum<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -107,7 +107,7 @@
         [
             "VE 14",
             "0014",
-            "niŋ₂-⸢la₂⸣-gir₇",
+            "niĝ<sub>2</sub>-⸢la<sub>2</sub>⸣-gir<sub>7</sub>",
             "NINDA",
             ";",
             ""
@@ -115,7 +115,7 @@
         [
             "VE 15",
             "0015",
-            "niŋ₂-⸢la₂-saŋ⸣",
+            "niĝ<sub>2</sub>-⸢la<sub>2</sub>-saĝ⸣",
             "NINDA",
             ";",
             ""
@@ -123,7 +123,7 @@
         [
             "VE 16",
             "0016",
-            "niŋ₂-⸢la₂⸣-gaba",
+            "niĝ<sub>2</sub>-⸢la<sub>2</sub>⸣-gaba",
             "NINDA",
             ";",
             ""
@@ -131,7 +131,7 @@
         [
             "VE 17",
             "0017",
-            "⸢niŋ₂⸣-[la₂-NI.NI]",
+            "⸢niĝ<sub>2</sub>⸣-[la<sub>2</sub>-NI.NI]",
             "NINDA",
             ";",
             ""
@@ -139,7 +139,7 @@
         [
             "VE 18",
             "0018",
-            "niŋ₂-⸢la₂-suluḫu₃(ZI.ZI)⸣",
+            "niĝ<sub>2</sub>-⸢la<sub>2</sub>-suluḫu<sub>3</sub>(ZI.ZI)⸣",
             "NINDA",
             ";",
             ""
@@ -147,7 +147,7 @@
         [
             "VE 19",
             "0019",
-            "niŋ₂-la₂-saŋ-⸢kešda⸣",
+            "niĝ<sub>2</sub>-la<sub>2</sub>-saĝ-⸢kešda⸣",
             "NINDA",
             ";",
             ""
@@ -155,7 +155,7 @@
         [
             "VE 20",
             "0020",
-            "niŋ₂-la₂-gu-saŋ-kešda",
+            "niĝ<sub>2</sub>-la<sub>2</sub>-gu-saĝ-kešda",
             "NINDA",
             ";",
             ""
@@ -163,7 +163,7 @@
         [
             "VE 21",
             "0021",
-            "niŋ₂-la₂-dirig(A.SI)",
+            "niĝ<sub>2</sub>-la<sub>2</sub>-dirig(A.SI)",
             "NINDA",
             ";",
             ""
@@ -171,7 +171,7 @@
         [
             "VE 22",
             "0022",
-            "niŋ₂-dedalₓ(NE)-igi-du₈",
+            "niĝ<sub>2</sub>-dedalₓ(NE)-igi-du<sub>8</sub>",
             "NINDA",
             ";",
             ""
@@ -179,7 +179,7 @@
         [
             "VE 23",
             "0023",
-            "niŋ₂-ba",
+            "niĝ<sub>2</sub>-ba",
             "NINDA",
             ";",
             ""
@@ -187,7 +187,7 @@
         [
             "VE 24",
             "0024",
-            "niŋ₂-NINDA₂×ŠE.ZA",
+            "niĝ<sub>2</sub>-NINDA<sub>2</sub>×ŠE.ZA",
             "NINDA",
             ";",
             ""
@@ -195,7 +195,7 @@
         [
             "VE 25",
             "0025",
-            "niŋ₂-aŋ₂",
+            "niĝ<sub>2</sub>-aĝ<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -203,7 +203,7 @@
         [
             "VE 26",
             "0026",
-            "niŋ₂-gu₂",
+            "niĝ<sub>2</sub>-gu<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -219,7 +219,7 @@
         [
             "VE 28",
             "0028",
-            "ninda-sig₁₅",
+            "ninda-sig<sub>15</sub>",
             "NINDA",
             ";",
             ""
@@ -251,7 +251,7 @@
         [
             "VE 32a-b",
             "0032",
-            "ninda-eš₂₂",
+            "ninda-eš<sub>2</sub><sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -259,7 +259,7 @@
         [
             "VE 33",
             "0033",
-            "ninda-i₃",
+            "ninda-i<sub>3</sub>",
             "NINDA",
             ";",
             ""
@@ -267,7 +267,7 @@
         [
             "VE 34",
             "0034",
-            "niŋ₂-PA",
+            "niĝ<sub>2</sub>-PA",
             "NINDA",
             ";",
             ""
@@ -283,7 +283,7 @@
         [
             "VE 36",
             "0036",
-            "ninda-saŋ",
+            "ninda-saĝ",
             "NINDA",
             ";",
             ""
@@ -291,7 +291,7 @@
         [
             "VE 37",
             "0037",
-            "niŋ₂-saŋšu",
+            "niĝ<sub>2</sub>-saĝšu",
             "NINDA",
             ";",
             ""
@@ -299,7 +299,7 @@
         [
             "VE 38",
             "0038",
-            "niŋ₂-niŋin",
+            "niĝ<sub>2</sub>-niĝin",
             "NINDA",
             ";",
             ""
@@ -307,7 +307,7 @@
         [
             "VE 39",
             "0039",
-            "ninda-gur₄",
+            "ninda-gur<sub>4</sub>",
             "NINDA",
             ";",
             ""
@@ -315,7 +315,7 @@
         [
             "VE 40a-b",
             "0040",
-            "niŋ₂-eš₂-nu-eš₂",
+            "niĝ<sub>2</sub>-eš<sub>2</sub>-nu-eš<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -323,7 +323,7 @@
         [
             "VE 41a-b",
             "0041",
-            "niŋ₂-ki!(ŠE₃-)za",
+            "niĝ<sub>2</sub>-ki!(ŠE<sub>3</sub>-)za",
             "NINDA",
             ";",
             ""
@@ -331,7 +331,7 @@
         [
             "VE 42",
             "0042",
-            "niŋ₂-ki",
+            "niĝ<sub>2</sub>-ki",
             "NINDA",
             ";",
             ""
@@ -339,7 +339,7 @@
         [
             "VE 43",
             "0043",
-            "niŋ₂-du₈",
+            "niĝ<sub>2</sub>-du<sub>8</sub>",
             "NINDA",
             ";",
             ""
@@ -347,7 +347,7 @@
         [
             "VE 44",
             "0044",
-            "ninda-du₈-du₈",
+            "ninda-du<sub>8</sub>-du<sub>8</sub>",
             "NINDA",
             ";",
             ""
@@ -355,7 +355,7 @@
         [
             "VE 45a-b",
             "0045",
-            "niŋ₂-DU₈-UD-DU₈-UD",
+            "niĝ<sub>2</sub>-DU<sub>8</sub>-UD-DU<sub>8</sub>-UD",
             "NINDA",
             ";",
             ""
@@ -363,7 +363,7 @@
         [
             "VE 46",
             "0046",
-            "ninda-u₉",
+            "ninda-u<sub>9</sub>",
             "NINDA",
             ";",
             ""
@@ -371,7 +371,7 @@
         [
             "VE 47",
             "0047",
-            "niŋ₂niŋbunaₓ(BAD₃)na",
+            "niĝ<sub>2</sub>niĝbunaₓ(BAD<sub>3</sub>)na",
             "NINDA",
             ";",
             ""
@@ -379,7 +379,7 @@
         [
             "VE 48",
             "0048",
-            "niŋ₂-MUL!(NAB-)MUL!",
+            "niĝ<sub>2</sub>-MUL!(NAB-)MUL!",
             "NINDA",
             ";",
             ""
@@ -403,7 +403,7 @@
         [
             "VE 51",
             "0051",
-            "niŋ₂-giggi",
+            "niĝ<sub>2</sub>-giggi",
             "NINDA",
             ";",
             ""
@@ -411,7 +411,7 @@
         [
             "VE 52",
             "0052",
-            "[niŋ₂]-kaskal",
+            "[niĝ<sub>2</sub>]-kaskal",
             "NINDA",
             ";",
             ""
@@ -419,7 +419,7 @@
         [
             "VE 53",
             "0053",
-            "ninda-i₃-gug₂",
+            "ninda-i<sub>3</sub>-gug<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -427,7 +427,7 @@
         [
             "VE 54",
             "0054",
-            "ninda-ḫe₂::ŋal₂",
+            "ninda-ḫe<sub>2</sub>::ĝal<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -435,7 +435,7 @@
         [
             "VE 55",
             "0055",
-            "niŋ₂-sag₇-sag₇",
+            "niĝ<sub>2</sub>-sag<sub>7</sub>-sag<sub>7</sub>",
             "NINDA",
             ";",
             ""
@@ -443,7 +443,7 @@
         [
             "VE 56",
             "0056",
-            "niŋ₂-da",
+            "niĝ<sub>2</sub>-da",
             "NINDA",
             ";",
             ""
@@ -459,7 +459,7 @@
         [
             "VE 58",
             "0058",
-            "niŋ₂-a₂-ŋa₂-2",
+            "niĝ<sub>2</sub>-a<sub>2</sub>-ĝa<sub>2</sub>-2",
             "NINDA",
             ";",
             ""
@@ -467,7 +467,7 @@
         [
             "VE 59a-b",
             "0059",
-            "niŋ₂-a₂-ŋa₂-3",
+            "niĝ<sub>2</sub>-a<sub>2</sub>-ĝa<sub>2</sub>-3",
             "NINDA",
             ";",
             ""
@@ -475,7 +475,7 @@
         [
             "VE 60",
             "0060",
-            "ninda-siki₂",
+            "ninda-siki<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -483,7 +483,7 @@
         [
             "VE 61",
             "0061",
-            "niŋ₂-dug₃",
+            "niĝ<sub>2</sub>-dug<sub>3</sub>",
             "NINDA",
             ";",
             ""
@@ -491,7 +491,7 @@
         [
             "VE 62",
             "0062",
-            "niŋ₂-dug₃-dug₃",
+            "niĝ<sub>2</sub>-dug<sub>3</sub>-dug<sub>3</sub>",
             "NINDA",
             ";",
             ""
@@ -499,7 +499,7 @@
         [
             "VE 63",
             "0063",
-            "niŋ₂-lu",
+            "niĝ<sub>2</sub>-lu",
             "NINDA",
             ";",
             ""
@@ -507,7 +507,7 @@
         [
             "VE 64",
             "0064",
-            "niŋ₂-lu-lu",
+            "niĝ<sub>2</sub>-lu-lu",
             "NINDA",
             ";",
             ""
@@ -515,7 +515,7 @@
         [
             "VE 65",
             "0065",
-            "niŋ₂-mu",
+            "niĝ<sub>2</sub>-mu",
             "NINDA",
             ";",
             ""
@@ -523,7 +523,7 @@
         [
             "VE 66",
             "0066",
-            "niŋ₂-mu-sa₂",
+            "niĝ<sub>2</sub>-mu-sa<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -531,7 +531,7 @@
         [
             "VE 67a-b",
             "0067",
-            "niŋ₂-sam₂!",
+            "niĝ<sub>2</sub>-sam<sub>2</sub>!",
             "NINDA",
             ";",
             ""
@@ -539,7 +539,7 @@
         [
             "VE 68",
             "0068",
-            "niŋ₂-e₂-sun₂-sun₂",
+            "niĝ<sub>2</sub>-e<sub>2</sub>-sun<sub>2</sub>-sun<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -547,7 +547,7 @@
         [
             "VE 69",
             "0069",
-            "niŋ₂-du₃",
+            "niĝ<sub>2</sub>-du<sub>3</sub>",
             "NINDA",
             ";",
             ""
@@ -555,7 +555,7 @@
         [
             "VE 70",
             "0070",
-            "niŋ₂-sig",
+            "niĝ<sub>2</sub>-sig",
             "NINDA",
             ";",
             ""
@@ -563,7 +563,7 @@
         [
             "VE 71",
             "0071",
-            "niŋ₂-sig-sig",
+            "niĝ<sub>2</sub>-sig-sig",
             "NINDA",
             ";",
             ""
@@ -571,7 +571,7 @@
         [
             "VE 72",
             "0072",
-            "niŋ₂-⸢gur₅⸣",
+            "niĝ<sub>2</sub>-⸢gur<sub>5</sub>⸣",
             "NINDA",
             ";",
             ""
@@ -579,7 +579,7 @@
         [
             "VE 73",
             "0073",
-            "niŋ₂-kar",
+            "niĝ<sub>2</sub>-kar",
             "NINDA",
             ";",
             ""
@@ -587,7 +587,7 @@
         [
             "VE 74",
             "0074",
-            "niŋ₂-kar-⸢kar⸣",
+            "niĝ<sub>2</sub>-kar-⸢kar⸣",
             "NINDA",
             ";",
             ""
@@ -595,7 +595,7 @@
         [
             "VE 75",
             "0075",
-            "niŋ₂-sagₓ(LAK384)",
+            "niĝ<sub>2</sub>-sagₓ(LAK384)",
             "NINDA",
             ";",
             ""
@@ -603,7 +603,7 @@
         [
             "VE 76",
             "0076",
-            "niŋ₂-sal",
+            "niĝ<sub>2</sub>-sal",
             "NINDA",
             ";",
             ""
@@ -627,7 +627,7 @@
         [
             "VE 79",
             "0079",
-            "niŋ₂-ZUM",
+            "niĝ<sub>2</sub>-ZUM",
             "NINDA",
             ";",
             ""
@@ -635,7 +635,7 @@
         [
             "VE 80",
             "0080",
-            "niŋ₂-te",
+            "niĝ<sub>2</sub>-te",
             "NINDA",
             ";",
             ""
@@ -643,7 +643,7 @@
         [
             "VE 81",
             "0081",
-            "ninda-geme₂",
+            "ninda-geme<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -651,7 +651,7 @@
         [
             "VE 82",
             "0082",
-            "niŋ₂-ga",
+            "niĝ<sub>2</sub>-ga",
             "NINDA",
             ";",
             ""
@@ -659,7 +659,7 @@
         [
             "VE 83",
             "0083",
-            "niŋ₂-gid₂",
+            "niĝ<sub>2</sub>-gid<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -667,7 +667,7 @@
         [
             "VE 84",
             "0084",
-            "niŋ₂-nam",
+            "niĝ<sub>2</sub>-nam",
             "NINDA",
             ";",
             ""
@@ -675,7 +675,7 @@
         [
             "VE 85",
             "0085",
-            "ku₂",
+            "ku<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -683,7 +683,7 @@
         [
             "VE 86",
             "0086",
-            "niŋ₂-gun₃",
+            "niĝ<sub>2</sub>-gun<sub>3</sub>",
             "NINDA",
             ";",
             ""
@@ -691,7 +691,7 @@
         [
             "VE 87",
             "0087",
-            "niŋ₂-a-dab₅",
+            "niĝ<sub>2</sub>-a-dab<sub>5</sub>",
             "NINDA",
             ";",
             ""
@@ -699,7 +699,7 @@
         [
             "VE 88",
             "88",
-            "ŋar-dur₂",
+            "ĝar-dur<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -707,7 +707,7 @@
         [
             "VE 89",
             "0089",
-            "niŋ₂-gir₁₀-bil",
+            "niĝ<sub>2</sub>-gir<sub>10</sub>-bil",
             "NINDA",
             ";",
             ""
@@ -715,7 +715,7 @@
         [
             "VE 90",
             "0090",
-            "niŋ₂-⸢dedalₓ(NE)⸣",
+            "niĝ<sub>2</sub>-⸢dedalₓ(NE)⸣",
             "NINDA",
             ";",
             ""
@@ -723,7 +723,7 @@
         [
             "VE 91",
             "0091",
-            "niŋ₂-šul(LAK39)",
+            "niĝ<sub>2</sub>-šul(LAK39)",
             "NINDA",
             ";",
             ""
@@ -731,7 +731,7 @@
         [
             "VE 92",
             "0092",
-            "niŋ₂-⸢ur₂⸣",
+            "niĝ<sub>2</sub>-⸢ur<sub>2</sub>⸣",
             "NINDA",
             ";",
             ""
@@ -739,7 +739,7 @@
         [
             "VE 93",
             "0093",
-            "niŋ₂-banda₃",
+            "niĝ<sub>2</sub>-banda<sub>3</sub>",
             "NINDA",
             ";",
             ""
@@ -747,7 +747,7 @@
         [
             "VE 94",
             "0094",
-            "niŋ₂-dumu-zi",
+            "niĝ<sub>2</sub>-dumu-zi",
             "NINDA",
             ";",
             ""
@@ -755,7 +755,7 @@
         [
             "VE 95",
             "0095",
-            "niŋ₂-banda₃-du₁₁-ga",
+            "niĝ<sub>2</sub>-banda<sub>3</sub>-du<sub>11</sub>-ga",
             "NINDA",
             ";",
             ""
@@ -763,7 +763,7 @@
         [
             "VE 96",
             "0096",
-            "niŋ₂-lul",
+            "niĝ<sub>2</sub>-lul",
             "NINDA",
             ";",
             ""
@@ -771,7 +771,7 @@
         [
             "VE 97",
             "0097",
-            "niŋ₂-lul-ak",
+            "niĝ<sub>2</sub>-lul-ak",
             "NINDA",
             ";",
             ""
@@ -779,7 +779,7 @@
         [
             "VE 98",
             "0098",
-            "niŋ₂-sa-rum",
+            "niĝ<sub>2</sub>-sa-rum",
             "NINDA",
             ";",
             ""
@@ -787,7 +787,7 @@
         [
             "VE 99",
             "0099",
-            "niŋ₂-u₂-rum",
+            "niĝ<sub>2</sub>-u<sub>2</sub>-rum",
             "NINDA",
             ";",
             ""
@@ -795,7 +795,7 @@
         [
             "VE 100",
             "0100",
-            "niŋ₂-gig",
+            "niĝ<sub>2</sub>-gig",
             "NINDA",
             ";",
             ""
@@ -803,7 +803,7 @@
         [
             "VE 101",
             "0101",
-            "ninda-gurdaₓ(GIRI₂)",
+            "ninda-gurdaₓ(GIRI<sub>2</sub>)",
             "NINDA",
             ";",
             ""
@@ -811,7 +811,7 @@
         [
             "VE 102",
             "0102",
-            "niŋ₂-⸢ŋar⸣-ŋar",
+            "niĝ<sub>2</sub>-⸢ĝar⸣-ĝar",
             "NINDA",
             ";",
             ""
@@ -819,7 +819,7 @@
         [
             "VE 103",
             "0103",
-            "niŋ₂-ŋar",
+            "niĝ<sub>2</sub>-ĝar",
             "NINDA",
             ";",
             ""
@@ -827,7 +827,7 @@
         [
             "VE 104",
             "0104",
-            "ninda-ku₅-ŋar",
+            "ninda-ku<sub>5</sub>-ĝar",
             "NINDA",
             ";",
             ""
@@ -835,7 +835,7 @@
         [
             "VE 105",
             "0105",
-            "ninda-ku₅",
+            "ninda-ku<sub>5</sub>",
             "NINDA",
             ";",
             ""
@@ -843,7 +843,7 @@
         [
             "VE 106",
             "0106",
-            "niŋ₂-dug",
+            "niĝ<sub>2</sub>-dug",
             "NINDA",
             ";",
             ""
@@ -851,7 +851,7 @@
         [
             "VE 107",
             "0107",
-            "niŋ₂-dul₅",
+            "niĝ<sub>2</sub>-dul<sub>5</sub>",
             "NINDA",
             ";",
             ""
@@ -859,7 +859,7 @@
         [
             "VE 108",
             "108",
-            "niŋ₂-ul",
+            "niĝ<sub>2</sub>-ul",
             "NINDA",
             ";",
             ""
@@ -867,7 +867,7 @@
         [
             "VE 109a-b",
             "109",
-            "niŋ₂-anše!(PIRIG-)TUG₂",
+            "niĝ<sub>2</sub>-anše!(PIRIG-)TUG<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -875,7 +875,7 @@
         [
             "VE 110a-b",
             "110",
-            "niŋ₂-anše-ak",
+            "niĝ<sub>2</sub>-anše-ak",
             "NINDA",
             ";",
             ""
@@ -883,7 +883,7 @@
         [
             "VE 111a-b",
             "111",
-            "niŋ₂-anše-si::ga",
+            "niĝ<sub>2</sub>-anše-si::ga",
             "NINDA",
             ";",
             ""
@@ -891,7 +891,7 @@
         [
             "VE 112",
             "112",
-            "niŋ₂-de₂",
+            "niĝ<sub>2</sub>-de<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -899,7 +899,7 @@
         [
             "VE 113",
             "113",
-            "niŋ₂-a-de₂",
+            "niĝ<sub>2</sub>-a-de<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -907,7 +907,7 @@
         [
             "VE 114",
             "114",
-            "niŋ₂-uri₃",
+            "niĝ<sub>2</sub>-uri<sub>3</sub>",
             "NINDA",
             ";",
             ""
@@ -931,7 +931,7 @@
         [
             "VE 117a-b",
             "117",
-            "niŋ₂-dul₅-ŋar",
+            "niĝ<sub>2</sub>-dul<sub>5</sub>-ĝar",
             "NINDA",
             ";",
             ""
@@ -939,7 +939,7 @@
         [
             "VE 118",
             "118",
-            "niŋ₂-zaḫ₂",
+            "niĝ<sub>2</sub>-zaḫ<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -947,7 +947,7 @@
         [
             "VE 119",
             "119",
-            "[niŋ₂-ŋa₂]",
+            "[niĝ<sub>2</sub>-ĝa<sub>2</sub>]",
             "NINDA",
             ";",
             ""
@@ -955,7 +955,7 @@
         [
             "VE 120",
             "120",
-            "niŋ₂-zi-pa-zi-pa",
+            "niĝ<sub>2</sub>-zi-pa-zi-pa",
             "NINDA",
             ";",
             ""
@@ -963,7 +963,7 @@
         [
             "VE 121",
             "121",
-            "niŋ₂-ki-luḫ",
+            "niĝ<sub>2</sub>-ki-luḫ",
             "NINDA",
             ";",
             ""
@@ -971,7 +971,7 @@
         [
             "VE 122",
             "122",
-            "niŋ₂-luḫ",
+            "niĝ<sub>2</sub>-luḫ",
             "NINDA",
             ";",
             ""
@@ -979,7 +979,7 @@
         [
             "VE 123a-b",
             "123",
-            "niŋ₂-<e₂>-sun₂",
+            "niĝ<sub>2</sub>-<e<sub>2</sub>>-sun<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -987,7 +987,7 @@
         [
             "VE 124a-c",
             "124",
-            "niŋ₂-esirₓ(LAK173)e₄-sa₂",
+            "niĝ<sub>2</sub>-esirₓ(LAK173)e<sub>4</sub>-sa<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -995,7 +995,7 @@
         [
             "VE 125",
             "125",
-            "niŋ₂-ki-ŋar",
+            "niĝ<sub>2</sub>-ki-ĝar",
             "NINDA",
             ";",
             ""
@@ -1003,7 +1003,7 @@
         [
             "VE 126",
             "126",
-            "niŋ₂-di-di",
+            "niĝ<sub>2</sub>-di-di",
             "NINDA",
             ";",
             ""
@@ -1011,7 +1011,7 @@
         [
             "VE 127",
             "127",
-            "ninda-gaddaₓ(GUG₂.GUG₂)",
+            "ninda-gaddaₓ(GUG<sub>2</sub>.GUG<sub>2</sub>)",
             "NINDA",
             ";",
             ""
@@ -1019,7 +1019,7 @@
         [
             "VE 128",
             "128",
-            "ninda-AD₆(LAK339)",
+            "ninda-AD<sub>6</sub>(LAK339)",
             "NINDA",
             ";",
             ""
@@ -1027,7 +1027,7 @@
         [
             "VE 129",
             "129",
-            "niŋ₂-babarag₂",
+            "niĝ<sub>2</sub>-babarag<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -1043,7 +1043,7 @@
         [
             "VE 131",
             "131",
-            "PAD-TUG₂",
+            "PAD-TUG<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -1075,7 +1075,7 @@
         [
             "VE 135",
             "135",
-            "me-ŋar",
+            "me-ĝar",
             "NINDA",
             ";",
             ""
@@ -1083,7 +1083,7 @@
         [
             "VE 136",
             "136",
-            "izi-ŋar",
+            "izi-ĝar",
             "NINDA",
             ";",
             ""
@@ -1091,7 +1091,7 @@
         [
             "VE 137",
             "137",
-            "gu₂-ŋar",
+            "gu<sub>2</sub>-ĝar",
             "NINDA",
             ";",
             ""
@@ -1099,7 +1099,7 @@
         [
             "VE 138",
             "138",
-            "ki-ŋar",
+            "ki-ĝar",
             "NINDA",
             ";",
             ""
@@ -1107,7 +1107,7 @@
         [
             "VE 139",
             "139",
-            "ki-ba₄-ŋar",
+            "ki-ba<sub>4</sub>-ĝar",
             "NINDA",
             ";",
             ""
@@ -1115,7 +1115,7 @@
         [
             "VE 140a-b",
             "140",
-            "eren₂!(KUR):KI.GAR",
+            "eren<sub>2</sub>!(KUR):KI.GAR",
             "NINDA",
             ";",
             ""
@@ -1131,7 +1131,7 @@
         [
             "VE 142",
             "142",
-            "ki-ninda-ku₂",
+            "ki-ninda-ku<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -1139,7 +1139,7 @@
         [
             "VE 143",
             "143",
-            "ma₂-ŋar",
+            "ma<sub>2</sub>-ĝar",
             "NINDA",
             ";",
             ""
@@ -1147,7 +1147,7 @@
         [
             "VE 144",
             "144",
-            "si-ŋar",
+            "si-ĝar",
             "NINDA",
             ";",
             ""
@@ -1155,7 +1155,7 @@
         [
             "VE 145",
             "145",
-            "igi-ŋar",
+            "igi-ĝar",
             "NINDA",
             ";",
             ""
@@ -1163,7 +1163,7 @@
         [
             "VE 146",
             "146",
-            "sig₄-[dur₂]-ŋar",
+            "sig<sub>4</sub>-[dur<sub>2</sub>]-ĝar",
             "NINDA",
             ";",
             ""
@@ -1171,7 +1171,7 @@
         [
             "VE 147",
             "147",
-            "ad-ŋar",
+            "ad-ĝar",
             "NINDA",
             ";",
             ""
@@ -1179,7 +1179,7 @@
         [
             "VE 148",
             "148",
-            "a₂-ŋar",
+            "a<sub>2</sub>-ĝar",
             "NINDA",
             ";",
             ""
@@ -1187,7 +1187,7 @@
         [
             "VE 149",
             "149",
-            "u₃-nu-ŋar",
+            "u<sub>3</sub>-nu-ĝar",
             "NINDA",
             ";",
             ""
@@ -1195,7 +1195,7 @@
         [
             "VE 150",
             "150",
-            "šu-ŋar",
+            "šu-ĝar",
             "NINDA",
             ";",
             ""
@@ -1203,7 +1203,7 @@
         [
             "VE 151",
             "151",
-            "saḫar-ŋar",
+            "saḫar-ĝar",
             "NINDA",
             ";",
             ""
@@ -1219,7 +1219,7 @@
         [
             "VE 153",
             "153",
-            "nidba₂",
+            "nidba<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -1235,7 +1235,7 @@
         [
             "VE 155",
             "155",
-            "⸢še⸣-ku₂",
+            "⸢še⸣-ku<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -1243,7 +1243,7 @@
         [
             "VE 156",
             "156",
-            "⸢ku₂⸣",
+            "⸢ku<sub>2</sub>⸣",
             "NINDA",
             ";",
             ""
@@ -1251,7 +1251,7 @@
         [
             "VE 157",
             "157",
-            "⸢kas₇⸣-ŋar",
+            "⸢kas<sub>7</sub>⸣-ĝar",
             "NINDA",
             ";",
             ""
@@ -1259,7 +1259,7 @@
         [
             "VE 158",
             "158",
-            "[e₂-gur₁₁]-ŋar",
+            "[e<sub>2</sub>-gur<sub>11</sub>]-ĝar",
             "NINDA",
             ";",
             ""
@@ -1267,7 +1267,7 @@
         [
             "VE 159",
             "159",
-            "[SAG-MUŠ]-⸢KU₂⸣",
+            "[SAG-MUŠ]-⸢KU<sub>2</sub>⸣",
             "NINDA",
             ";",
             ""
@@ -1291,7 +1291,7 @@
         [
             "VE 162",
             "162",
-            "i₃-ŋar",
+            "i<sub>3</sub>-ĝar",
             "NINDA",
             ";",
             ""
@@ -1299,7 +1299,7 @@
         [
             "VE 163",
             "163",
-            "ša₃-ŋar",
+            "ša<sub>3</sub>-ĝar",
             "NINDA",
             ";",
             ""
@@ -1307,7 +1307,7 @@
         [
             "VE 164",
             "164",
-            "teš₂-teš₂-ku₂",
+            "teš<sub>2</sub>-teš<sub>2</sub>-ku<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -1315,7 +1315,7 @@
         [
             "VE 165",
             "165",
-            "sur-tug₂",
+            "sur-tug<sub>2</sub>",
             "NINDA",
             ";",
             ""
@@ -1323,7 +1323,7 @@
         [
             "VE 166",
             "166",
-            "KUR-⸢pad na⸣-du₃",
+            "KUR-⸢pad na⸣-du<sub>3</sub>",
             "NINDA",
             ";",
             ""
@@ -1331,7 +1331,7 @@
         [
             "VE 167",
             "167",
-            "naŋ",
+            "naĝ",
             "KA",
             ";",
             ""
@@ -1347,7 +1347,7 @@
         [
             "VE 169",
             "169",
-            "⸢mu₁₁(KA.SAR)⸣",
+            "⸢mu<sub>11</sub>(KA.SAR)⸣",
             "KA",
             ";",
             ""
@@ -1355,7 +1355,7 @@
         [
             "VE 170",
             "170",
-            "gu₃-zal",
+            "gu<sub>3</sub>-zal",
             "KA",
             ";",
             ""
@@ -1371,7 +1371,7 @@
         [
             "VE 172",
             "172",
-            "eškiriₓ(KIRI₃.EŠ₂)",
+            "eškiriₓ(KIRI<sub>3</sub>.EŠ<sub>2</sub>)",
             "KA",
             ";",
             ""
@@ -1387,7 +1387,7 @@
         [
             "VE 174",
             "174",
-            "zu₂uruda",
+            "zu<sub>2</sub>uruda",
             "KA",
             ";",
             ""
@@ -1395,7 +1395,7 @@
         [
             "VE 175",
             "175",
-            "gu₃-dim-dim",
+            "gu<sub>3</sub>-dim-dim",
             "KA",
             ";",
             ""
@@ -1403,7 +1403,7 @@
         [
             "VE 176",
             "176",
-            "gu₃-e₂-dim-dim",
+            "gu<sub>3</sub>-e<sub>2</sub>-dim-dim",
             "KA",
             ";",
             ""
@@ -1435,7 +1435,7 @@
         [
             "VE 180",
             "180",
-            "eme-la₂",
+            "eme-la<sub>2</sub>",
             "KA",
             ";",
             ""
@@ -1443,7 +1443,7 @@
         [
             "VE 181",
             "181",
-            "ka-la₂",
+            "ka-la<sub>2</sub>",
             "KA",
             ";",
             ""
@@ -1451,7 +1451,7 @@
         [
             "VE 182a-b",
             "182",
-            "⸢gu₃⸣-ŋa₂-2",
+            "⸢gu<sub>3</sub>⸣-ĝa<sub>2</sub>-2",
             "KA",
             ";",
             ""
@@ -1459,7 +1459,7 @@
         [
             "VE 183",
             "183",
-            "kiri₃-du₃-gid₂!(SUD)",
+            "kiri<sub>3</sub>-du<sub>3</sub>-gid<sub>2</sub>!(SUD)",
             "KA",
             ";",
             ""
@@ -1467,7 +1467,7 @@
         [
             "VE 184",
             "184",
-            "muzugₓ(KA.U₂)",
+            "muzugₓ(KA.U<sub>2</sub>)",
             "KA",
             ";",
             ""
@@ -1475,7 +1475,7 @@
         [
             "VE 185",
             "185",
-            "du₁₁-ga",
+            "du<sub>11</sub>-ga",
             "KA",
             ";",
             ""
@@ -1485,7 +1485,7 @@
             "186",
             "inim-di",
             "KA",
-            "<i>dal-da-gi-lum</i> (D); <i>ti-da-bir</i>₅-<i>lum</i> (i)",
+            "<i>dal-da-gi-lum</i> (D); <i>ti-da-bir</i><sub>5</sub>-<i>lum</i> (i)",
             "Conti, MisEb 3 (1990), 95–96"
         ],
         [
@@ -1499,7 +1499,7 @@
         [
             "VE 188",
             "188",
-            "mu₇(KA.LI)",
+            "mu<sub>7</sub>(KA.LI)",
             "KA",
             ";",
             ""
@@ -1507,7 +1507,7 @@
         [
             "VE 189",
             "189",
-            "KA-tak₄",
+            "KA-tak<sub>4</sub>",
             "KA",
             ";",
             ""
@@ -1515,7 +1515,7 @@
         [
             "VE 19",
             "19",
-            "kir₄-ma",
+            "kir<sub>4</sub>-ma",
             "KA",
             ";",
             ""
@@ -1523,7 +1523,7 @@
         [
             "VE 191",
             "191",
-            "ka-du₈",
+            "ka-du<sub>8</sub>",
             "KA",
             ";",
             ""
@@ -1531,7 +1531,7 @@
         [
             "VE 192",
             "192",
-            "sa₁₂!(KA-)du₅(LAK786)",
+            "sa<sub>12</sub>!(KA-)du<sub>5</sub>(LAK786)",
             "KA",
             ";",
             ""
@@ -1539,7 +1539,7 @@
         [
             "VE 193",
             "193",
-            "KA-tur₃",
+            "KA-tur<sub>3</sub>",
             "KA",
             ";",
             ""
@@ -1547,7 +1547,7 @@
         [
             "VE 194",
             "194",
-            "zu₂-bulug₄",
+            "zu<sub>2</sub>-bulug<sub>4</sub>",
             "KA",
             ";",
             ""
@@ -1555,7 +1555,7 @@
         [
             "VE 195",
             "195",
-            "zu₂-ku₅",
+            "zu<sub>2</sub>-ku<sub>5</sub>",
             "KA",
             ";",
             ""
@@ -1571,7 +1571,7 @@
         [
             "VE 197",
             "197",
-            "inim-erim₂",
+            "inim-erim<sub>2</sub>",
             "KA",
             ";",
             ""
@@ -1587,7 +1587,7 @@
         [
             "VE 199",
             "199",
-            "⸢sum₄!(KA×SA!-)du₃",
+            "⸢sum<sub>4</sub>!(KA×SA!-)du<sub>3</sub>",
             "KA",
             ";",
             ""
@@ -1595,7 +1595,7 @@
         [
             "VE 200",
             "200",
-            "⸢sum₄!(KA×SA!-)mu₂",
+            "⸢sum<sub>4</sub>!(KA×SA!-)mu<sub>2</sub>",
             "KA",
             ";",
             ""
@@ -1603,7 +1603,7 @@
         [
             "VE 201a-b",
             "201",
-            "⸢KA⸣-an-barag₂!(E₂)",
+            "⸢KA⸣-an-barag<sub>2</sub>!(E<sub>2</sub>)",
             "KA",
             ";",
             ""
@@ -1611,7 +1611,7 @@
         [
             "VE 202a-b",
             "202",
-            "zu₂-dnamma",
+            "zu<sub>2</sub>-dnamma",
             "KA",
             ";",
             ""
@@ -1619,7 +1619,7 @@
         [
             "VE 203",
             "203",
-            "ka-sig₆",
+            "ka-sig<sub>6</sub>",
             "KA",
             ";",
             ""
@@ -1627,7 +1627,7 @@
         [
             "VE 204",
             "204",
-            "gu₃-de₂",
+            "gu<sub>3</sub>-de<sub>2</sub>",
             "KA",
             ";",
             ""
@@ -1635,7 +1635,7 @@
         [
             "VE 205",
             "205",
-            "gu₃-a-de₂",
+            "gu<sub>3</sub>-a-de<sub>2</sub>",
             "KA",
             ";",
             ""
@@ -1659,7 +1659,7 @@
         [
             "VE 208",
             "208",
-            "zu₂-ar₃-⸢ša₄⸣",
+            "zu<sub>2</sub>-ar<sub>3</sub>-⸢ša<sub>4</sub>⸣",
             "KA",
             ";",
             ""
@@ -1667,7 +1667,7 @@
         [
             "VE 209",
             "209",
-            "zu₂-ur₅",
+            "zu<sub>2</sub>-ur<sub>5</sub>",
             "KA",
             ";",
             ""
@@ -1691,7 +1691,7 @@
         [
             "VE 212",
             "212",
-            "kiri₃-du₃",
+            "kiri<sub>3</sub>-du<sub>3</sub>",
             "KA",
             ";",
             ""
@@ -1699,7 +1699,7 @@
         [
             "VE 213",
             "213",
-            "gu₃-[ḫul₂]",
+            "gu<sub>3</sub>-[ḫul<sub>2</sub>]",
             "KA",
             ";",
             ""
@@ -1707,7 +1707,7 @@
         [
             "VE 214",
             "214",
-            "zu₂-us₂",
+            "zu<sub>2</sub>-us<sub>2</sub>",
             "KA",
             ";",
             ""
@@ -1715,7 +1715,7 @@
         [
             "VE 215",
             "215",
-            "inim-si₁₁",
+            "inim-si<sub>11</sub>",
             "KA",
             ";",
             ""
@@ -1723,7 +1723,7 @@
         [
             "VE 216",
             "216",
-            "inim-azuₓ(ZU₅)a",
+            "inim-azuₓ(ZU<sub>5</sub>)a",
             "KA",
             ";",
             ""
@@ -1731,7 +1731,7 @@
         [
             "VE 217",
             "217",
-            "su₁₁-li₉-li₉",
+            "su<sub>11</sub>-li<sub>9</sub>-li<sub>9</sub>",
             "KA",
             ";",
             ""
@@ -1747,7 +1747,7 @@
         [
             "VE 219",
             "219",
-            "zu₂-ŋiri₂::gal",
+            "zu<sub>2</sub>-ĝiri<sub>2</sub>::gal",
             "KA",
             ";",
             ""
@@ -1755,7 +1755,7 @@
         [
             "VE 220",
             "220",
-            "zu₂-ŋiri₂8",
+            "zu<sub>2</sub>-ĝiri<sub>2</sub>8",
             "KA",
             ";",
             ""
@@ -1763,7 +1763,7 @@
         [
             "VE 221",
             "221",
-            "zu₂-ak",
+            "zu<sub>2</sub>-ak",
             "KA",
             ";",
             ""
@@ -1771,7 +1771,7 @@
         [
             "VE 222a-b",
             "222",
-            "gu₃-kin",
+            "gu<sub>3</sub>-kin",
             "KA",
             ";",
             ""
@@ -1779,7 +1779,7 @@
         [
             "VE 223",
             "223",
-            "kiri₃-ḫum",
+            "kiri<sub>3</sub>-ḫum",
             "KA",
             ";",
             ""
@@ -1795,7 +1795,7 @@
         [
             "VE 225",
             "225",
-            "⸢bun₂(KA.[IM])⸣",
+            "⸢bun<sub>2</sub>(KA.[IM])⸣",
             "KA",
             ";",
             ""
@@ -1811,7 +1811,7 @@
         [
             "VE 227",
             "227",
-            "zu₂-gul",
+            "zu<sub>2</sub>-gul",
             "KA",
             ";",
             ""
@@ -1843,7 +1843,7 @@
         [
             "VE 231",
             "231",
-            "aš₂-dug₄",
+            "aš<sub>2</sub>-dug<sub>4</sub>",
             "KA",
             ";",
             ""
@@ -1859,7 +1859,7 @@
         [
             "VE 233",
             "233",
-            "sa₂-du₁₁-ga",
+            "sa<sub>2</sub>-du<sub>11</sub>-ga",
             "KA",
             ";",
             ""
@@ -1867,7 +1867,7 @@
         [
             "VE 234",
             "234",
-            "al₆-du₁₁-ga",
+            "al<sub>6</sub>-du<sub>11</sub>-ga",
             "KA",
             ";",
             ""
@@ -1875,7 +1875,7 @@
         [
             "VE 235",
             "235",
-            "kab-du₁₁-ga",
+            "kab-du<sub>11</sub>-ga",
             "KA",
             ";",
             ""
@@ -1883,7 +1883,7 @@
         [
             "VE 236",
             "236",
-            "IB.ŠEŠ.2 mi₂-du₁₁-ga",
+            "IB.ŠEŠ.2 mi<sub>2</sub>-du<sub>11</sub>-ga",
             "KA",
             ";",
             ""
@@ -1891,7 +1891,7 @@
         [
             "VE 237",
             "237",
-            "IB.ŠEŠ.2 dar mi₂-du₁₁-ga",
+            "IB.ŠEŠ.2 dar mi<sub>2</sub>-du<sub>11</sub>-ga",
             "KA",
             ";",
             ""
@@ -1899,7 +1899,7 @@
         [
             "VE 238",
             "238",
-            "UD-du₁₁-ga",
+            "UD-du<sub>11</sub>-ga",
             "KA",
             ";",
             ""
@@ -1915,7 +1915,7 @@
         [
             "VE 240",
             "240",
-            "saŋ-sig₃",
+            "saĝ-sig<sub>3</sub>",
             "SAG",
             ";",
             ""
@@ -1923,7 +1923,7 @@
         [
             "VE 241",
             "241",
-            "saŋ-du₈",
+            "saĝ-du<sub>8</sub>",
             "SAG",
             ";",
             ""
@@ -1931,7 +1931,7 @@
         [
             "VE 242",
             "242",
-            "saŋ-⸢gur₈⸣",
+            "saĝ-⸢gur<sub>8</sub>⸣",
             "SAG",
             ";",
             ""
@@ -1939,7 +1939,7 @@
         [
             "VE 243",
             "243",
-            "ne::saŋ",
+            "ne::saĝ",
             "SAG",
             ";",
             ""
@@ -1955,7 +1955,7 @@
         [
             "VE 245",
             "245",
-            "saŋ-⸢DAR⸣",
+            "saĝ-⸢DAR⸣",
             "SAG",
             ";",
             ""
@@ -1963,7 +1963,7 @@
         [
             "VE 246",
             "246",
-            "saŋ-sakar",
+            "saĝ-sakar",
             "SAG",
             ";",
             ""
@@ -1979,7 +1979,7 @@
         [
             "VE 248",
             "248",
-            "saŋ-⸢tum₂⸣",
+            "saĝ-⸢tum<sub>2</sub>⸣",
             "SAG",
             ";",
             ""
@@ -1987,7 +1987,7 @@
         [
             "VE 249",
             "249",
-            "saŋ-e₁₁",
+            "saĝ-e<sub>11</sub>",
             "SAG",
             ";",
             ""
@@ -1995,7 +1995,7 @@
         [
             "VE 250",
             "250",
-            "⸢saŋ⸣-i₃-ŋeš",
+            "⸢saĝ⸣-i<sub>3</sub>-ĝeš",
             "SAG",
             ";",
             ""
@@ -2003,7 +2003,7 @@
         [
             "VE 251a-b",
             "251",
-            "[saŋ]-⸢ki⸣",
+            "[saĝ]-⸢ki⸣",
             "SAG",
             ";",
             ""
@@ -2011,7 +2011,7 @@
         [
             "VE 252",
             "252",
-            "saŋ-ku₅",
+            "saĝ-ku<sub>5</sub>",
             "SAG",
             ";",
             ""
@@ -2019,7 +2019,7 @@
         [
             "VE 253a-b",
             "253",
-            "saŋ-kešda",
+            "saĝ-kešda",
             "SAG",
             ";",
             ""
@@ -2027,7 +2027,7 @@
         [
             "VE 254",
             "254",
-            "saŋ-sum",
+            "saĝ-sum",
             "SAG",
             ";",
             ""
@@ -2035,7 +2035,7 @@
         [
             "VE 255",
             "255",
-            "⸢x⸣-gudu₄",
+            "⸢x⸣-gudu<sub>4</sub>",
             "SAG",
             ";",
             ""
@@ -2043,7 +2043,7 @@
         [
             "VE 256",
             "256",
-            "saŋ-gar₃",
+            "saĝ-gar<sub>3</sub>",
             "SAG",
             ";",
             ""
@@ -2051,7 +2051,7 @@
         [
             "VE 257",
             "257",
-            "saŋ-du₇",
+            "saĝ-du<sub>7</sub>",
             "SAG",
             ";",
             ""
@@ -2059,7 +2059,7 @@
         [
             "VE 258",
             "258",
-            "saŋ-KAK-bad-bad",
+            "saĝ-KAK-bad-bad",
             "SAG",
             ";",
             ""
@@ -2075,7 +2075,7 @@
         [
             "VE 260",
             "260",
-            "birₓ(SAG×KID₂)",
+            "birₓ(SAG×KID<sub>2</sub>)",
             "SAG",
             ";",
             ""
@@ -2099,7 +2099,7 @@
         [
             "VE 263",
             "263",
-            "saŋšu",
+            "saĝšu",
             "SAG",
             ";",
             ""
@@ -2147,7 +2147,7 @@
         [
             "VE 269",
             "269",
-            "KID₂.SAG",
+            "KID<sub>2</sub>.SAG",
             "SAG",
             ";",
             ""
@@ -2155,7 +2155,7 @@
         [
             "VE 270",
             "270",
-            "dumu-saŋ",
+            "dumu-saĝ",
             "SAG",
             ";",
             ""
@@ -2163,7 +2163,7 @@
         [
             "VE 271",
             "271",
-            "ur-saŋ",
+            "ur-saĝ",
             "SAG",
             ";",
             ""
@@ -2171,7 +2171,7 @@
         [
             "VE 272",
             "272",
-            "sur₇-saŋ",
+            "sur<sub>7</sub>-saĝ",
             "SAG",
             ";",
             ""
@@ -2179,120 +2179,120 @@
         [
             "VE 273",
             "273",
-            "[u₂-UNKEN]",
-            "U₂",
+            "[u<sub>2</sub>-UNKEN]",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 274",
             "274",
-            "[u₂-gukkal]",
-            "U₂",
+            "[u<sub>2</sub>-gukkal]",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 275",
             "275",
-            "u₂-ḫab₂",
-            "U₂",
+            "u<sub>2</sub>-ḫab<sub>2</sub>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 276",
             "276",
-            "u₂-ENGUR",
-            "U₂",
+            "u<sub>2</sub>-ENGUR",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 277",
             "277",
-            "u₂-siki",
-            "U₂",
+            "u<sub>2</sub>-siki",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 278",
             "278",
-            "U₂.GIGIR9",
-            "U₂",
+            "U<sub>2</sub>.GIGIR9",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 279",
             "279",
-            "u₂-URUxBAD",
-            "U₂",
+            "u<sub>2</sub>-URUxBAD",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 280",
             "280",
-            "u₂-us₂-sa₂",
-            "U₂",
+            "u<sub>2</sub>-us<sub>2</sub>-sa<sub>2</sub>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 281",
             "281",
-            "u₂-us₂-sa₂-mi₂",
-            "U₂",
+            "u<sub>2</sub>-us<sub>2</sub>-sa<sub>2</sub>-mi<sub>2</sub>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 282a-b",
             "282",
-            "<še>-u₂-ri-ri-ga",
-            "U₂",
+            "<še>-u<sub>2</sub>-ri-ri-ga",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 283",
             "283",
-            "<še>-u₂-ri-ga",
-            "U₂",
+            "<še>-u<sub>2</sub>-ri-ga",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 284",
             "284",
-            "u₂-ki",
-            "U₂",
+            "u<sub>2</sub>-ki",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 285",
             "285",
-            "u₂-šim!(BAPPIR)",
-            "U₂",
+            "u<sub>2</sub>-šim!(BAPPIR)",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 286",
             "286",
-            "u₂-ŠIM!(BAPPIR-)ga",
-            "U₂",
+            "u<sub>2</sub>-ŠIM!(BAPPIR-)ga",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 287a-b",
             "287",
-            "u₂-šimbulugₓ(BAPPIR.BAPPIR)!-ga",
-            "U₂",
+            "u<sub>2</sub>-šimbulugₓ(BAPPIR.BAPPIR)!-ga",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
@@ -2300,159 +2300,159 @@
             "VE 288",
             "288",
             "AN.EN.TE",
-            "U₂",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 289",
             "289",
-            "u₂-LAK175sar",
-            "U₂",
+            "u<sub>2</sub>-LAK175sar",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 290",
             "290",
-            "u₂-LAK175",
-            "U₂",
+            "u<sub>2</sub>-LAK175",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 291",
             "291",
-            "u₂-gudu₄",
-            "U₂",
+            "u<sub>2</sub>-gudu<sub>4</sub>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 292",
             "292",
-            "u₂-LA-ad",
-            "U₂",
+            "u<sub>2</sub>-LA-ad",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 293",
             "293",
-            "u₂-SU",
-            "U₂",
+            "u<sub>2</sub>-SU",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 294",
             "294",
-            "U₂-GUD₄",
-            "U₂",
+            "U<sub>2</sub>-GUD<sub>4</sub>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 295",
             "295",
-            "u₂-gauga(NAGA)mušen",
-            "U₂",
+            "u<sub>2</sub>-gauga(NAGA)mušen",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 296",
             "296",
-            "u₂-[ga]-GAR₃-UD",
-            "U₂",
+            "u<sub>2</sub>-[ga]-GAR<sub>3</sub>-UD",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 297",
             "297",
-            "⸢u₂⸣-a",
-            "U₂",
+            "⸢u<sub>2</sub>⸣-a",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 298",
             "298",
-            "u₂-la₂-a-ki",
-            "U₂",
+            "u<sub>2</sub>-la<sub>2</sub>-a-ki",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 299",
             "299",
-            "šembiridaₓ(U₂.KUR)",
-            "U₂",
+            "šembiridaₓ(U<sub>2</sub>.KUR)",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 300",
             "300",
-            "u₂-ninni₅",
-            "U₂",
+            "u<sub>2</sub>-ninni<sub>5</sub>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 301a-b",
             "301",
-            "u₂-a-⸢nir!⸣, <u₂-ki-la₂>",
-            "U₂",
+            "u<sub>2</sub>-a-⸢nir!⸣, <u<sub>2</sub>-ki-la<sub>2</sub>>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 302",
             "302",
-            "u₂-par₄",
-            "U₂",
+            "u<sub>2</sub>-par<sub>4</sub>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 303",
             "303",
-            "u₂-gamun₂",
-            "U₂",
+            "u<sub>2</sub>-gamun<sub>2</sub>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 304",
             "304",
-            "u₂-eden-dam",
-            "U₂",
+            "u<sub>2</sub>-eden-dam",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 305",
             "305",
-            "u₂-ḫašḫur(MA×GAN₂t)",
-            "U₂",
+            "u<sub>2</sub>-ḫašḫur(MA×GAN<sub>2</sub>t)",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 306",
             "306",
-            "u₂-PI-naŋa",
-            "U₂",
+            "u<sub>2</sub>-PI-naĝa",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 307",
             "307",
-            "u₂",
-            "U₂",
+            "u<sub>2</sub>",
+            "U<sub>2</sub>",
             ";",
             ""
         ],
@@ -2467,7 +2467,7 @@
         [
             "VE 309",
             "309",
-            "sa-gaz₂",
+            "sa-gaz<sub>2</sub>",
             "SA",
             ";",
             ""
@@ -2475,7 +2475,7 @@
         [
             "VE 310",
             "310",
-            "sa-na₂",
+            "sa-na<sub>2</sub>",
             "SA",
             ";",
             ""
@@ -2483,7 +2483,7 @@
         [
             "VE 311",
             "311",
-            "sa-gu₂",
+            "sa-gu<sub>2</sub>",
             "SA",
             ";",
             ""
@@ -2515,64 +2515,64 @@
         [
             "VE 315",
             "315",
-            "e₂-pap",
-            "E₂",
+            "e<sub>2</sub>-pap",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 316",
             "316",
-            "e₂-dur",
-            "E₂",
+            "e<sub>2</sub>-dur",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 317",
             "317",
-            "e₂-duru₅ki",
-            "E₂",
+            "e<sub>2</sub>-duru<sub>5</sub>ki",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 318a-b",
             "318",
-            "e₂-eš₂-tuš",
-            "E₂",
+            "e<sub>2</sub>-eš<sub>2</sub>-tuš",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 319",
             "319",
-            "e₂-uš",
-            "E₂",
+            "e<sub>2</sub>-uš",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 320",
             "320",
-            "e₂-gal",
-            "E₂",
+            "e<sub>2</sub>-gal",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 321",
             "321",
-            "[e₂-GIRI₂]",
-            "E₂",
+            "[e<sub>2</sub>-GIRI<sub>2</sub>]",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 322",
             "322",
-            "[e₂-gi-a]",
-            "E₂",
+            "[e<sub>2</sub>-gi-a]",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
@@ -2580,158 +2580,158 @@
             "VE 323",
             "323",
             "[agrun]",
-            "E₂",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 324",
             "324",
-            "arḫušₓ(E₂×ŠA₃)",
-            "E₂",
+            "arḫušₓ(E<sub>2</sub>×ŠA<sub>3</sub>)",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 325a-b",
             "325",
-            "e₂-nam-ak",
-            "E₂",
+            "e<sub>2</sub>-nam-ak",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 326a-b",
             "326",
-            "e₂-ZA-NUN-BAḪAR₄a-b",
-            "E₂",
+            "e<sub>2</sub>-ZA-NUN-BAḪAR<sub>4</sub>a-b",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 327",
             "327",
-            "e₂-KU-KU",
-            "E₂",
+            "e<sub>2</sub>-KU-KU",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 328",
             "328",
-            "e₂-ir₁₁",
-            "E₂",
+            "e<sub>2</sub>-ir<sub>11</sub>",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 329",
             "329",
-            "e₂-dam",
-            "E₂",
+            "e<sub>2</sub>-dam",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 330",
             "330",
-            "e₂-saŋ-kešda",
-            "E₂",
+            "e<sub>2</sub>-saĝ-kešda",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 331",
             "331",
-            "e₂-saŋ",
-            "E₂",
+            "e<sub>2</sub>-saĝ",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 332",
             "332",
-            "e₂-saŋ-ba",
-            "E₂",
+            "e<sub>2</sub>-saĝ-ba",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 333",
             "333",
-            "e₂-ZI&ZI.A",
-            "E₂",
+            "e<sub>2</sub>-ZI&ZI.A",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 334",
             "334",
-            "e₂-ZI&ZI",
-            "E₂",
+            "e<sub>2</sub>-ZI&ZI",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 335a-b",
             "335",
-            "e₂-PIRIG",
-            "E₂",
+            "e<sub>2</sub>-PIRIG",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 336a-b",
             "336",
-            "e₂-ra11",
-            "E₂",
+            "e<sub>2</sub>-ra11",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 337",
             "337",
-            "e₂-tur",
-            "E₂",
+            "e<sub>2</sub>-tur",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 338",
             "338",
-            "e₂-si₄-an",
-            "E₂",
+            "e<sub>2</sub>-si<sub>4</sub>-an",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 339",
             "339",
-            "e₂-URUDA",
-            "E₂",
+            "e<sub>2</sub>-URUDA",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 340",
             "34",
-            "e₂-ur₂",
-            "E₂",
+            "e<sub>2</sub>-ur<sub>2</sub>",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 341",
             "341",
-            "e₂",
-            "E₂",
+            "e<sub>2</sub>",
+            "E<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 342",
             "342",
-            "ŋeš-bad",
+            "ĝeš-bad",
             "GEŠ",
             ";",
             ""
@@ -2739,7 +2739,7 @@
         [
             "VE 343a-b",
             "343",
-            "ŋeš-mar",
+            "ĝeš-mar",
             "GEŠ",
             ";",
             ""
@@ -2747,7 +2747,7 @@
         [
             "VE 344",
             "344",
-            "ŋeš-PA",
+            "ĝeš-PA",
             "GEŠ",
             ";",
             ""
@@ -2755,7 +2755,7 @@
         [
             "VE 345",
             "345",
-            "ŋeš-a",
+            "ĝeš-a",
             "GEŠ",
             ";",
             ""
@@ -2763,7 +2763,7 @@
         [
             "VE 346",
             "346",
-            "ŋeš-i₃",
+            "ĝeš-i<sub>3</sub>",
             "GEŠ",
             ";",
             ""
@@ -2771,7 +2771,7 @@
         [
             "VE 347",
             "347",
-            "ŋeš-ti",
+            "ĝeš-ti",
             "GEŠ",
             ";",
             ""
@@ -2779,7 +2779,7 @@
         [
             "VE 348",
             "348",
-            "ŋeš-ti-ḪI",
+            "ĝeš-ti-ḪI",
             "GEŠ",
             ";",
             ""
@@ -2787,7 +2787,7 @@
         [
             "VE 349",
             "349",
-            "ŋeš-ti-ḪAR",
+            "ĝeš-ti-ḪAR",
             "GEŠ",
             ";",
             ""
@@ -2795,7 +2795,7 @@
         [
             "VE 350",
             "350",
-            "ŋeš-⸢ildag₄⸣",
+            "ĝeš-⸢ildag<sub>4</sub>⸣",
             "GEŠ",
             ";",
             ""
@@ -2803,7 +2803,7 @@
         [
             "VE 351",
             "351",
-            "ŋeš-ŋeštin",
+            "ĝeš-ĝeštin",
             "GEŠ",
             ";",
             ""
@@ -2811,7 +2811,7 @@
         [
             "VE 352",
             "352",
-            "ŋeš-pan",
+            "ĝeš-pan",
             "GEŠ",
             ";",
             ""
@@ -2819,7 +2819,7 @@
         [
             "VE 353",
             "353",
-            "ŋeš-GAM.GAM",
+            "ĝeš-GAM.GAM",
             "GEŠ",
             ";",
             ""
@@ -2827,7 +2827,7 @@
         [
             "VE 354",
             "354",
-            "ŋeš-saḫar-2",
+            "ĝeš-saḫar-2",
             "GEŠ",
             ";",
             ""
@@ -2835,7 +2835,7 @@
         [
             "VE 355",
             "355",
-            "ŋeš-GIGIR₂(LAK771).E₂-4",
+            "ĝeš-GIGIR<sub>2</sub>(LAK771).E<sub>2</sub>-4",
             "GEŠ",
             ";",
             ""
@@ -2843,7 +2843,7 @@
         [
             "VE 356",
             "356",
-            "ŋeš-gigir₂(LAK771)-4",
+            "ĝeš-gigir<sub>2</sub>(LAK771)-4",
             "GEŠ",
             ";",
             ""
@@ -2851,7 +2851,7 @@
         [
             "VE 357",
             "357",
-            "ŋeš-gigir₂(LAK771)-2",
+            "ĝeš-gigir<sub>2</sub>(LAK771)-2",
             "GEŠ",
             ";",
             ""
@@ -2859,7 +2859,7 @@
         [
             "VE 358",
             "358",
-            "ŋeš-gigir₂(LAK771)-sum-4",
+            "ĝeš-gigir<sub>2</sub>(LAK771)-sum-4",
             "GEŠ",
             ";",
             ""
@@ -2867,7 +2867,7 @@
         [
             "VE 359",
             "359",
-            "ŋeš-gigir₂(LAK771)-ar₃-ar₃",
+            "ĝeš-gigir<sub>2</sub>(LAK771)-ar<sub>3</sub>-ar<sub>3</sub>",
             "GEŠ",
             ";",
             ""
@@ -2875,7 +2875,7 @@
         [
             "VE 360",
             "360",
-            "ŋeš-ig",
+            "ĝeš-ig",
             "GEŠ",
             ";",
             ""
@@ -2883,7 +2883,7 @@
         [
             "VE 361",
             "361",
-            "ŋeš-sal",
+            "ĝeš-sal",
             "GEŠ",
             ";",
             ""
@@ -2891,7 +2891,7 @@
         [
             "VE 362",
             "362",
-            "ŋeš-DU",
+            "ĝeš-DU",
             "GEŠ",
             ";",
             ""
@@ -2899,7 +2899,7 @@
         [
             "VE 363",
             "363",
-            "ŋeš-gir₇-gub",
+            "ĝeš-gir<sub>7</sub>-gub",
             "GEŠ",
             ";",
             ""
@@ -2907,7 +2907,7 @@
         [
             "VE 364",
             "364",
-            "ŋeš-balaŋ",
+            "ĝeš-balaĝ",
             "GEŠ",
             ";",
             ""
@@ -2915,7 +2915,7 @@
         [
             "VE 365",
             "365",
-            "ŋeš-maš",
+            "ĝeš-maš",
             "GEŠ",
             ";",
             ""
@@ -2923,7 +2923,7 @@
         [
             "VE 366",
             "366",
-            "ŋeš-šerim",
+            "ĝeš-šerim",
             "GEŠ",
             ";",
             ""
@@ -2931,7 +2931,7 @@
         [
             "VE 367",
             "367",
-            "ŋeš-⸢ḫašḫur(LAK35)⸣",
+            "ĝeš-⸢ḫašḫur(LAK35)⸣",
             "GEŠ",
             ";",
             ""
@@ -2939,7 +2939,7 @@
         [
             "VE 368",
             "368",
-            "[ŋeš]-peš₃",
+            "[ĝeš]-peš<sub>3</sub>",
             "GEŠ",
             ";",
             ""
@@ -2947,7 +2947,7 @@
         [
             "VE 369",
             "369",
-            "[ŋeš-šilig(LAK650)]",
+            "[ĝeš-šilig(LAK650)]",
             "GEŠ",
             ";",
             ""
@@ -2955,7 +2955,7 @@
         [
             "VE 370",
             "370",
-            "[ŋeš-banšur]",
+            "[ĝeš-banšur]",
             "GEŠ",
             ";",
             ""
@@ -2963,7 +2963,7 @@
         [
             "VE 371",
             "371",
-            "ŋeš-⸢šudun(ELLES302)⸣",
+            "ĝeš-⸢šudun(ELLES302)⸣",
             "GEŠ",
             ";",
             ""
@@ -2971,7 +2971,7 @@
         [
             "VE 372",
             "372",
-            "ŋeš-nad₃",
+            "ĝeš-nad<sub>3</sub>",
             "GEŠ",
             ";",
             ""
@@ -2979,7 +2979,7 @@
         [
             "VE 373",
             "373",
-            "ŋeš-nad₃-suḫuš",
+            "ĝeš-nad<sub>3</sub>-suḫuš",
             "GEŠ",
             ";",
             ""
@@ -2987,7 +2987,7 @@
         [
             "VE 374",
             "374",
-            "ŋeš-li",
+            "ĝeš-li",
             "GEŠ",
             ";",
             ""
@@ -2995,7 +2995,7 @@
         [
             "VE 375",
             "375",
-            "ŋeš-šim!(BAPPIR-)gur₂-gur₂",
+            "ĝeš-šim!(BAPPIR-)gur<sub>2</sub>-gur<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3003,7 +3003,7 @@
         [
             "VE 376",
             "376",
-            "ŋeš-surₓ(ERIN₂t)!12",
+            "ĝeš-surₓ(ERIN<sub>2</sub>t)!12",
             "GEŠ",
             ";",
             ""
@@ -3011,7 +3011,7 @@
         [
             "VE 377",
             "377",
-            "ŋeš-kak",
+            "ĝeš-kak",
             "GEŠ",
             ";",
             ""
@@ -3019,7 +3019,7 @@
         [
             "VE 378",
             "378",
-            "ŋeš-ma-dul₁₀",
+            "ĝeš-ma-dul<sub>10</sub>",
             "GEŠ",
             ";",
             ""
@@ -3027,7 +3027,7 @@
         [
             "VE 379",
             "379",
-            "ŋeš-šu-me",
+            "ĝeš-šu-me",
             "GEŠ",
             ";",
             ""
@@ -3035,7 +3035,7 @@
         [
             "VE 380",
             "380",
-            "ŋeš-gi₄-BAD",
+            "ĝeš-gi<sub>4</sub>-BAD",
             "GEŠ",
             ";",
             ""
@@ -3043,7 +3043,7 @@
         [
             "VE 381",
             "381",
-            "ŋeš-daŋal",
+            "ĝeš-daĝal",
             "GEŠ",
             ";",
             ""
@@ -3051,7 +3051,7 @@
         [
             "VE 382",
             "382",
-            "ŋeš-a-dar",
+            "ĝeš-a-dar",
             "GEŠ",
             ";",
             ""
@@ -3059,7 +3059,7 @@
         [
             "VE 383",
             "383",
-            "ŋeš-duru₅",
+            "ĝeš-duru<sub>5</sub>",
             "GEŠ",
             ";",
             ""
@@ -3067,7 +3067,7 @@
         [
             "VE 384",
             "384",
-            "ŋeš-kirid",
+            "ĝeš-kirid",
             "GEŠ",
             ";",
             ""
@@ -3075,7 +3075,7 @@
         [
             "VE 385",
             "385",
-            "ŋeš-ERIN₂t",
+            "ĝeš-ERIN<sub>2</sub>t",
             "GEŠ",
             ";",
             ""
@@ -3083,7 +3083,7 @@
         [
             "VE 386",
             "386",
-            "ŋeš-taskarin",
+            "ĝeš-taskarin",
             "GEŠ",
             ";",
             ""
@@ -3091,7 +3091,7 @@
         [
             "VE 387",
             "387",
-            "ŋeš-ŋeštug-la₂",
+            "ĝeš-ĝeštug-la<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3099,7 +3099,7 @@
         [
             "VE 388",
             "388",
-            "ŋeš-ŋeštug-la₂-zu₂",
+            "ĝeš-ĝeštug-la<sub>2</sub>-zu<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3107,7 +3107,7 @@
         [
             "VE 389",
             "389",
-            "ŋeštug₃",
+            "ĝeštug<sub>3</sub>",
             "GEŠ",
             ";",
             ""
@@ -3115,7 +3115,7 @@
         [
             "VE 390",
             "390",
-            "ŋeš-ad",
+            "ĝeš-ad",
             "GEŠ",
             ";",
             ""
@@ -3123,7 +3123,7 @@
         [
             "VE 391",
             "391",
-            "ŋeš-ḪUB₂×KASKAL(LAK477)",
+            "ĝeš-ḪUB<sub>2</sub>×KASKAL(LAK477)",
             "GEŠ",
             ";",
             ""
@@ -3131,7 +3131,7 @@
         [
             "VE 392",
             "392",
-            "ŋeš-ḪUB",
+            "ĝeš-ḪUB",
             "GEŠ",
             ";",
             ""
@@ -3139,7 +3139,7 @@
         [
             "VE 393",
             "393",
-            "ŋeš-ba-tuku!(ḪUB₂)",
+            "ĝeš-ba-tuku!(ḪUB<sub>2</sub>)",
             "GEŠ",
             ";",
             ""
@@ -3147,7 +3147,7 @@
         [
             "VE 394",
             "394",
-            "ŋeš-naŋa",
+            "ĝeš-naĝa",
             "GEŠ",
             ";",
             ""
@@ -3155,7 +3155,7 @@
         [
             "VE 395",
             "395",
-            "ŋeš-šinig",
+            "ĝeš-šinig",
             "GEŠ",
             ";",
             ""
@@ -3163,7 +3163,7 @@
         [
             "VE 396",
             "396",
-            "ŋeš-šu",
+            "ĝeš-šu",
             "GEŠ",
             ";",
             ""
@@ -3171,7 +3171,7 @@
         [
             "VE 397",
             "397",
-            "ŋeš-ašalₓ(LAK212)",
+            "ĝeš-ašalₓ(LAK212)",
             "GEŠ",
             ";",
             ""
@@ -3179,7 +3179,7 @@
         [
             "VE 398",
             "398",
-            "ŋeš-gaba",
+            "ĝeš-gaba",
             "GEŠ",
             ";",
             ""
@@ -3187,7 +3187,7 @@
         [
             "VE 399",
             "399",
-            "ŋeš-nimbar",
+            "ĝeš-nimbar",
             "GEŠ",
             ";",
             ""
@@ -3195,7 +3195,7 @@
         [
             "VE 400",
             "400",
-            "ŋeš-tir",
+            "ĝeš-tir",
             "GEŠ",
             ";",
             ""
@@ -3203,7 +3203,7 @@
         [
             "VE 401",
             "401",
-            "ŋeš-tir-ḪI",
+            "ĝeš-tir-ḪI",
             "GEŠ",
             ";",
             ""
@@ -3211,7 +3211,7 @@
         [
             "VE 402",
             "402",
-            "ŋeš-ni₃-gul",
+            "ĝeš-ni<sub>3</sub>-gul",
             "GEŠ",
             ";",
             ""
@@ -3219,7 +3219,7 @@
         [
             "VE 403",
             "403",
-            "ŋeš-dub-dim₂",
+            "ĝeš-dub-dim<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3227,7 +3227,7 @@
         [
             "VE 404",
             "404",
-            "ŋeš-URU",
+            "ĝeš-URU",
             "GEŠ",
             ";",
             ""
@@ -3235,7 +3235,7 @@
         [
             "VE 405",
             "405",
-            "ŋeš-AB-…",
+            "ĝeš-AB-…",
             "GEŠ",
             ";",
             ""
@@ -3243,7 +3243,7 @@
         [
             "VE 406",
             "406",
-            "ŋeš-MU",
+            "ĝeš-MU",
             "GEŠ",
             ";",
             ""
@@ -3251,7 +3251,7 @@
         [
             "VE 407",
             "407",
-            "ŋeš-gid₂",
+            "ĝeš-gid<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3259,7 +3259,7 @@
         [
             "VE 408",
             "408",
-            "ŋeš-UNKEN",
+            "ĝeš-UNKEN",
             "GEŠ",
             ";",
             ""
@@ -3267,7 +3267,7 @@
         [
             "VE 409",
             "409",
-            "ŋešDILMUN",
+            "ĝešDILMUN",
             "GEŠ",
             ";",
             ""
@@ -3275,7 +3275,7 @@
         [
             "VE 410",
             "410",
-            "ŋeš-DUR₂.DUR₂",
+            "ĝeš-DUR<sub>2</sub>.DUR<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3283,7 +3283,7 @@
         [
             "VE 411",
             "411",
-            "ŋeš-URUDA-URUDA",
+            "ĝeš-URUDA-URUDA",
             "GEŠ",
             ";",
             ""
@@ -3291,7 +3291,7 @@
         [
             "VE 412",
             "412",
-            "ŋeš-⸢bur⸣",
+            "ĝeš-⸢bur⸣",
             "GEŠ",
             ";",
             ""
@@ -3299,7 +3299,7 @@
         [
             "VE 413",
             "413",
-            "⸢ŋeš-illar⸣",
+            "⸢ĝeš-illar⸣",
             "GEŠ",
             ";",
             ""
@@ -3307,7 +3307,7 @@
         [
             "VE 414",
             "414",
-            "ŋeš-RU-RU",
+            "ĝeš-RU-RU",
             "GEŠ",
             ";",
             ""
@@ -3315,7 +3315,7 @@
         [
             "VE 415",
             "415",
-            "ŋeš-gul-tag",
+            "ĝeš-gul-tag",
             "GEŠ",
             ";",
             ""
@@ -3323,7 +3323,7 @@
         [
             "VE 416",
             "416",
-            "ŋeš-gi",
+            "ĝeš-gi",
             "GEŠ",
             ";",
             ""
@@ -3331,7 +3331,7 @@
         [
             "VE 417",
             "417",
-            "ŋeš-gi-na",
+            "ĝeš-gi-na",
             "GEŠ",
             ";",
             ""
@@ -3339,7 +3339,7 @@
         [
             "VE 418",
             "418",
-            "ŋeš-gi-da-[la₂]",
+            "ĝeš-gi-da-[la<sub>2</sub>]",
             "GEŠ",
             ";",
             ""
@@ -3347,7 +3347,7 @@
         [
             "VE 419a-b",
             "419",
-            "ŋeš-gi-da-ḪI",
+            "ĝeš-gi-da-ḪI",
             "GEŠ",
             ";",
             ""
@@ -3355,7 +3355,7 @@
         [
             "VE 420",
             "420",
-            "ŋeš-kas₇!(RA-)ŋar",
+            "ĝeš-kas<sub>7</sub>!(RA-)ĝar",
             "GEŠ",
             ";",
             ""
@@ -3363,7 +3363,7 @@
         [
             "VE 421",
             "421",
-            "ŋeš-ŠID-ki",
+            "ĝeš-ŠID-ki",
             "GEŠ",
             ";",
             ""
@@ -3371,7 +3371,7 @@
         [
             "VE 422",
             "422",
-            "ŋeš-gu₂",
+            "ĝeš-gu<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3379,7 +3379,7 @@
         [
             "VE 423",
             "423",
-            "ŋeš-na₅-ze₂",
+            "ĝeš-na<sub>5</sub>-ze<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3387,7 +3387,7 @@
         [
             "VE 424",
             "424",
-            "ŋeš-peš₃-ḫad₂",
+            "ĝeš-peš<sub>3</sub>-ḫad<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3403,7 +3403,7 @@
         [
             "VE 426",
             "426",
-            "ŋeš-da",
+            "ĝeš-da",
             "GEŠ",
             ";",
             ""
@@ -3411,7 +3411,7 @@
         [
             "VE 427",
             "427",
-            "ŋeš-me-da",
+            "ĝeš-me-da",
             "GEŠ",
             ";",
             ""
@@ -3419,7 +3419,7 @@
         [
             "VE 428",
             "428",
-            "ŋeš-šu-gururuda",
+            "ĝeš-šu-gururuda",
             "GEŠ",
             ";",
             ""
@@ -3427,7 +3427,7 @@
         [
             "VE 429",
             "429",
-            "ŋeššeš",
+            "ĝeššeš",
             "GEŠ",
             ";",
             ""
@@ -3435,7 +3435,7 @@
         [
             "VE 430",
             "430",
-            "ŋeš-TE!",
+            "ĝeš-TE!",
             "GEŠ",
             ";",
             ""
@@ -3443,7 +3443,7 @@
         [
             "VE 431",
             "431",
-            "ŋeš-šubur",
+            "ĝeš-šubur",
             "GEŠ",
             ";",
             ""
@@ -3451,7 +3451,7 @@
         [
             "VE 432",
             "432",
-            "ŋeš-kak-šubur",
+            "ĝeš-kak-šubur",
             "GEŠ",
             ";",
             ""
@@ -3459,7 +3459,7 @@
         [
             "VE 433",
             "433",
-            "ŋeš-zu₂",
+            "ĝeš-zu<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3467,7 +3467,7 @@
         [
             "VE 434",
             "434",
-            "ŋeš-eme",
+            "ĝeš-eme",
             "GEŠ",
             ";",
             ""
@@ -3475,7 +3475,7 @@
         [
             "VE 435",
             "435",
-            "ŋeš-apin",
+            "ĝeš-apin",
             "GEŠ",
             ";",
             ""
@@ -3483,7 +3483,7 @@
         [
             "VE 436",
             "436",
-            "ŋeš-ad₂",
+            "ĝeš-ad<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3491,7 +3491,7 @@
         [
             "VE 437",
             "437",
-            "ŋeš-GIŠ×KAR₂",
+            "ĝeš-GIŠ×KAR<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3499,7 +3499,7 @@
         [
             "VE 438",
             "438",
-            "ŋeš-bugin",
+            "ĝeš-bugin",
             "GEŠ",
             ";",
             ""
@@ -3507,7 +3507,7 @@
         [
             "VE 439",
             "439",
-            "ŋeš-ur₃!(SILA₄)",
+            "ĝeš-ur<sub>3</sub>!(SILA<sub>4</sub>)",
             "GEŠ",
             ";",
             ""
@@ -3515,7 +3515,7 @@
         [
             "VE 440",
             "440",
-            "ŋeš-al₆",
+            "ĝeš-al<sub>6</sub>",
             "GEŠ",
             ";",
             ""
@@ -3523,7 +3523,7 @@
         [
             "VE 441",
             "441",
-            "ŋeš-šu₂",
+            "ĝeš-šu<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3531,7 +3531,7 @@
         [
             "VE 442",
             "442",
-            "ŋeš-dilim₂",
+            "ĝeš-dilim<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3539,7 +3539,7 @@
         [
             "VE 443",
             "443",
-            "nu::ŋeš-:kiri₆",
+            "nu::ĝeš-:kiri<sub>6</sub>",
             "GEŠ",
             ";",
             ""
@@ -3547,7 +3547,7 @@
         [
             "VE 444",
             "444",
-            "ŋeš-alanₓ(KID₂.ALAM)",
+            "ĝeš-alanₓ(KID<sub>2</sub>.ALAM)",
             "GEŠ",
             ";",
             ""
@@ -3555,7 +3555,7 @@
         [
             "VE 445",
             "445",
-            "ŋeš-rin₄ na-du₃",
+            "ĝeš-rin<sub>4</sub> na-du<sub>3</sub>",
             "GEŠ",
             ";",
             ""
@@ -3563,7 +3563,7 @@
         [
             "VE 446",
             "446",
-            "ŋeš-dim₄",
+            "ĝeš-dim<sub>4</sub>",
             "GEŠ",
             ";",
             ""
@@ -3571,7 +3571,7 @@
         [
             "VE 447",
             "447",
-            "ŋeš-saŋ",
+            "ĝeš-saĝ",
             "GEŠ",
             ";",
             ""
@@ -3579,7 +3579,7 @@
         [
             "VE 448",
             "448",
-            "ŋeš-dug-tum₂",
+            "ĝeš-dug-tum<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3587,7 +3587,7 @@
         [
             "VE 449",
             "449",
-            "ŋeš-⸢dug⸣-[gid₂-tum₂]",
+            "ĝeš-⸢dug⸣-[gid<sub>2</sub>-tum<sub>2</sub>]",
             "GEŠ",
             ";",
             ""
@@ -3595,7 +3595,7 @@
         [
             "VE 450",
             "450",
-            "ŋeš-⸢ur₂⸣",
+            "ĝeš-⸢ur<sub>2</sub>⸣",
             "GEŠ",
             ";",
             ""
@@ -3603,7 +3603,7 @@
         [
             "VE 451",
             "451",
-            "ŋeš-eg₂-tur",
+            "ĝeš-eg<sub>2</sub>-tur",
             "GEŠ",
             ";",
             ""
@@ -3611,7 +3611,7 @@
         [
             "VE 452",
             "452",
-            "ŋeš-⸢mud⸣",
+            "ĝeš-⸢mud⸣",
             "GEŠ",
             ";",
             ""
@@ -3619,7 +3619,7 @@
         [
             "VE 453",
             "453",
-            "ŋeš-⸢e₂⸣",
+            "ĝeš-⸢e<sub>2</sub>⸣",
             "GEŠ",
             ";",
             ""
@@ -3627,7 +3627,7 @@
         [
             "VE 454",
             "454",
-            "ŋeš-⸢kas₇⸣",
+            "ĝeš-⸢kas<sub>7</sub>⸣",
             "GEŠ",
             ";",
             ""
@@ -3635,7 +3635,7 @@
         [
             "VE 455",
             "455",
-            "ŋeš-⸢GANA₂⸣",
+            "ĝeš-⸢GANA<sub>2</sub>⸣",
             "GEŠ",
             ";",
             ""
@@ -3643,7 +3643,7 @@
         [
             "VE 456",
             "456",
-            "ŋeš-bur₂",
+            "ĝeš-bur<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3651,7 +3651,7 @@
         [
             "VE 457",
             "457",
-            "ŋeš-kam₄",
+            "ĝeš-kam<sub>4</sub>",
             "GEŠ",
             ";",
             ""
@@ -3659,7 +3659,7 @@
         [
             "VE 458",
             "458",
-            "ŋeš-šitaₓ(LAK503)",
+            "ĝeš-šitaₓ(LAK503)",
             "GEŠ",
             ";",
             ""
@@ -3667,7 +3667,7 @@
         [
             "VE 459",
             "459",
-            "ŋeš-bala",
+            "ĝeš-bala",
             "GEŠ",
             ";",
             ""
@@ -3675,7 +3675,7 @@
         [
             "VE 460",
             "460",
-            "ŋeš-numun",
+            "ĝeš-numun",
             "GEŠ",
             ";",
             ""
@@ -3683,7 +3683,7 @@
         [
             "VE 461",
             "461",
-            "ŋeš-naga₄",
+            "ĝeš-naga<sub>4</sub>",
             "GEŠ",
             ";",
             ""
@@ -3691,7 +3691,7 @@
         [
             "VE 462",
             "462",
-            "ŋeš-eš₂₂",
+            "ĝeš-eš<sub>2</sub><sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3707,7 +3707,7 @@
         [
             "VE 464",
             "464",
-            "ŋeš-šim!(BAPPIR)",
+            "ĝeš-šim!(BAPPIR)",
             "GEŠ",
             ";",
             ""
@@ -3715,7 +3715,7 @@
         [
             "VE 465",
             "465",
-            "ŋeš-ib₂",
+            "ĝeš-ib<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3723,7 +3723,7 @@
         [
             "VE 466",
             "466",
-            "⸢ŋeš-maarmanuₓ(LAK263)nun⸣",
+            "⸢ĝeš-maarmanuₓ(LAK263)nun⸣",
             "GEŠ",
             ";",
             ""
@@ -3731,7 +3731,7 @@
         [
             "VE 467",
             "467",
-            "ŋeš-pa-mul-mul",
+            "ĝeš-pa-mul-mul",
             "GEŠ",
             ";",
             ""
@@ -3739,7 +3739,7 @@
         [
             "VE 468",
             "468",
-            "ŋeš-ḪUR",
+            "ĝeš-ḪUR",
             "GEŠ",
             ";",
             ""
@@ -3747,7 +3747,7 @@
         [
             "VE 469",
             "469",
-            "ŋešŋeškim-ti",
+            "ĝešĝeškim-ti",
             "GEŠ",
             ";",
             ""
@@ -3755,7 +3755,7 @@
         [
             "VE 470",
             "470",
-            "ŋeš-nun-ir",
+            "ĝeš-nun-ir",
             "GEŠ",
             ";",
             ""
@@ -3763,7 +3763,7 @@
         [
             "VE 471",
             "471",
-            "ŋeš-nun-sal",
+            "ĝeš-nun-sal",
             "GEŠ",
             ";",
             ""
@@ -3771,7 +3771,7 @@
         [
             "VE 472",
             "472",
-            "ŋešnun",
+            "ĝešnun",
             "GEŠ",
             ";",
             ""
@@ -3779,7 +3779,7 @@
         [
             "VE 473",
             "473",
-            "ŋešmes",
+            "ĝešmes",
             "GEŠ",
             ";",
             ""
@@ -3787,7 +3787,7 @@
         [
             "VE 474",
             "474",
-            "ŋeš-⸢peš⸣",
+            "ĝeš-⸢peš⸣",
             "GEŠ",
             ";",
             ""
@@ -3795,7 +3795,7 @@
         [
             "VE 475",
             "475",
-            "ŋeš-GIR₂g×ŠE₃",
+            "ĝeš-GIR<sub>2</sub>g×ŠE<sub>3</sub>",
             "GEŠ",
             ";",
             ""
@@ -3803,7 +3803,7 @@
         [
             "VE 476",
             "476",
-            "ŋeš-šu-dab-dab",
+            "ĝeš-šu-dab-dab",
             "GEŠ",
             ";",
             ""
@@ -3811,7 +3811,7 @@
         [
             "VE 477",
             "477",
-            "ŋeš-aga₃",
+            "ĝeš-aga<sub>3</sub>",
             "GEŠ",
             ";",
             ""
@@ -3819,7 +3819,7 @@
         [
             "VE 478",
             "478",
-            "ŋeš-šušₓ(ŠE+NAM₂)",
+            "ĝeš-šušₓ(ŠE+NAM<sub>2</sub>)",
             "GEŠ",
             ";",
             ""
@@ -3827,7 +3827,7 @@
         [
             "VE 479",
             "479",
-            "ŋeš-gu-kak::gid₂",
+            "ĝeš-gu-kak::gid<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3835,7 +3835,7 @@
         [
             "VE 480",
             "480",
-            "ŋeš-mar-ḫaš-kak-RUuruda",
+            "ĝeš-mar-ḫaš-kak-RUuruda",
             "GEŠ",
             ";",
             ""
@@ -3843,7 +3843,7 @@
         [
             "VE 481",
             "481",
-            "ŋeš-gu-RU-kakuruda",
+            "ĝeš-gu-RU-kakuruda",
             "GEŠ",
             ";",
             ""
@@ -3851,7 +3851,7 @@
         [
             "VE 482",
             "482",
-            "ŋeš-ad-us₂",
+            "ĝeš-ad-us<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3859,7 +3859,7 @@
         [
             "VE 483",
             "483",
-            "ŋeš-eš₂-nu-eš₂",
+            "ĝeš-eš<sub>2</sub>-nu-eš<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3867,7 +3867,7 @@
         [
             "VE 484",
             "484",
-            "ŋeš-ki-si-ga",
+            "ĝeš-ki-si-ga",
             "GEŠ",
             ";",
             ""
@@ -3875,7 +3875,7 @@
         [
             "VE 485",
             "485",
-            "ŋeš-muš₃-KISAL",
+            "ĝeš-muš<sub>3</sub>-KISAL",
             "GEŠ",
             ";",
             ""
@@ -3883,7 +3883,7 @@
         [
             "VE 486",
             "486",
-            "ŋeš-ditanₓ(ELLES160)",
+            "ĝeš-ditanₓ(ELLES160)",
             "GEŠ",
             ";",
             ""
@@ -3891,7 +3891,7 @@
         [
             "VE 487",
             "487",
-            "ŋeš-ub-u₈-mi₂",
+            "ĝeš-ub-u<sub>8</sub>-mi<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3899,7 +3899,7 @@
         [
             "VE 488",
             "488",
-            "⸢ŋeš⸣-gul",
+            "⸢ĝeš⸣-gul",
             "GEŠ",
             ";",
             ""
@@ -3907,7 +3907,7 @@
         [
             "VE 489",
             "489",
-            "ŋeš-LAK672",
+            "ĝeš-LAK672",
             "GEŠ",
             ";",
             ""
@@ -3915,7 +3915,7 @@
         [
             "VE 490",
             "490",
-            "ŋeš-esir₄(GI₄×GI₄)-dim₂",
+            "ĝeš-esir<sub>4</sub>(GI<sub>4</sub>×GI<sub>4</sub>)-dim<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3923,7 +3923,7 @@
         [
             "VE 491",
             "491",
-            "[ŋeš]-LA-KU",
+            "[ĝeš]-LA-KU",
             "GEŠ",
             ";",
             ""
@@ -3931,7 +3931,7 @@
         [
             "VE 492",
             "492",
-            "[ŋeš]-⸢A⸣-MUNU₄.MUNU₄-ḪUB₂",
+            "[ĝeš]-⸢A⸣-MUNU<sub>4</sub>.MUNU<sub>4</sub>-ḪUB<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -3939,7 +3939,7 @@
         [
             "VE 493",
             "493",
-            "ŋeš-[sig₄-dur₂]",
+            "ĝeš-[sig<sub>4</sub>-dur<sub>2</sub>]",
             "GEŠ",
             ";",
             ""
@@ -3947,7 +3947,7 @@
         [
             "VE 494",
             "494",
-            "[ŋeš-niŋ₂-gul]",
+            "[ĝeš-niĝ<sub>2</sub>-gul]",
             "GEŠ",
             ";",
             ""
@@ -3955,7 +3955,7 @@
         [
             "VE 495",
             "495",
-            "[ŋeš]-tukul",
+            "[ĝeš]-tukul",
             "GEŠ",
             ";",
             ""
@@ -3963,7 +3963,7 @@
         [
             "VE 496",
             "496",
-            "ŋeš-babbar",
+            "ĝeš-babbar",
             "GEŠ",
             ";",
             ""
@@ -3971,7 +3971,7 @@
         [
             "VE 497",
             "497",
-            "ŋeš",
+            "ĝeš",
             "GEŠ",
             ";",
             ""
@@ -3987,7 +3987,7 @@
         [
             "VE 499",
             "499",
-            "šu-daŋal-gal",
+            "šu-daĝal-gal",
             "ŠU",
             ";",
             ""
@@ -4011,7 +4011,7 @@
         [
             "VE 502",
             "502",
-            "šu-i₃",
+            "šu-i<sub>3</sub>",
             "ŠU",
             ";",
             ""
@@ -4019,7 +4019,7 @@
         [
             "VE 503",
             "503",
-            "šu-niŋin₂",
+            "šu-niĝin<sub>2</sub>",
             "ŠU",
             ";",
             ""
@@ -4027,7 +4027,7 @@
         [
             "VE 504",
             "504",
-            "šu-ba₄-ti",
+            "šu-ba<sub>4</sub>-ti",
             "ŠU",
             ";",
             ""
@@ -4035,7 +4035,7 @@
         [
             "VE 505",
             "505",
-            "šu-du₈",
+            "šu-du<sub>8</sub>",
             "ŠU",
             ";",
             ""
@@ -4059,7 +4059,7 @@
         [
             "VE 508",
             "508",
-            "[šu-mu-tak₄]",
+            "[šu-mu-tak<sub>4</sub>]",
             "ŠU",
             ";",
             ""
@@ -4067,7 +4067,7 @@
         [
             "VE 509",
             "509",
-            "[šu-mu-niŋin₂]",
+            "[šu-mu-niĝin<sub>2</sub>]",
             "ŠU",
             ";",
             ""
@@ -4091,7 +4091,7 @@
         [
             "VE 512",
             "512",
-            "šu-ta šu-de₆",
+            "šu-ta šu-de<sub>6</sub>",
             "ŠU",
             ";",
             ""
@@ -4107,7 +4107,7 @@
         [
             "VE 514",
             "514",
-            "šu-ku₅",
+            "šu-ku<sub>5</sub>",
             "ŠU",
             ";",
             ""
@@ -4115,7 +4115,7 @@
         [
             "VE 515",
             "515",
-            "šu-mu₂",
+            "šu-mu<sub>2</sub>",
             "ŠU",
             ";",
             ""
@@ -4123,7 +4123,7 @@
         [
             "VE 516",
             "516",
-            "šu-ša₃",
+            "šu-ša<sub>3</sub>",
             "ŠU",
             ";",
             ""
@@ -4163,7 +4163,7 @@
         [
             "VE 521",
             "521",
-            "ŋešpu₂",
+            "ĝešpu<sub>2</sub>",
             "ŠU",
             ";",
             ""
@@ -4171,7 +4171,7 @@
         [
             "VE 522",
             "522",
-            "šu-du₇",
+            "šu-du<sub>7</sub>",
             "ŠU",
             ";",
             ""
@@ -4179,7 +4179,7 @@
         [
             "VE 523",
             "523",
-            "šu-i₃-šub",
+            "šu-i<sub>3</sub>-šub",
             "ŠU",
             ";",
             ""
@@ -4187,7 +4187,7 @@
         [
             "VE 524",
             "524",
-            "šu-i₃-bar",
+            "šu-i<sub>3</sub>-bar",
             "ŠU",
             ";",
             ""
@@ -4195,7 +4195,7 @@
         [
             "VE 525",
             "525",
-            "šu-šub₄(LAK672)",
+            "šu-šub<sub>4</sub>(LAK672)",
             "ŠU",
             ";",
             ""
@@ -4203,7 +4203,7 @@
         [
             "VE 526",
             "526",
-            "šu-kin₅-ak",
+            "šu-kin<sub>5</sub>-ak",
             "ŠU",
             ";",
             ""
@@ -4219,7 +4219,7 @@
         [
             "VE 528",
             "528",
-            "šu-gid₂",
+            "šu-gid<sub>2</sub>",
             "ŠU",
             ";",
             ""
@@ -4227,7 +4227,7 @@
         [
             "VE 529",
             "529",
-            "šu-gid₂-gid₂",
+            "šu-gid<sub>2</sub>-gid<sub>2</sub>",
             "ŠU",
             ";",
             ""
@@ -4251,7 +4251,7 @@
         [
             "VE 532",
             "532",
-            "šu-gur₅-du₁₁-ga",
+            "šu-gur<sub>5</sub>-du<sub>11</sub>-ga",
             "ŠU",
             ";",
             ""
@@ -4267,264 +4267,264 @@
         [
             "VE 534",
             "534",
-            "a₂-zi",
-            "A₂",
+            "a<sub>2</sub>-zi",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 535",
             "535",
-            "[a₂]-⸢gab₂⸣",
-            "A₂",
+            "[a<sub>2</sub>]-⸢gab<sub>2</sub>⸣",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 536",
             "536",
-            "a₂-zi-da",
-            "A₂",
+            "a<sub>2</sub>-zi-da",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 537",
             "537",
-            "a₂-la₂",
-            "A₂",
+            "a<sub>2</sub>-la<sub>2</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 538",
             "538",
-            "a₂-gur",
-            "A₂",
+            "a<sub>2</sub>-gur",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 539",
             "539",
-            "a₂-KU",
-            "A₂",
+            "a<sub>2</sub>-KU",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 540",
             "540",
-            "a₂-ta",
-            "A₂",
+            "a<sub>2</sub>-ta",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 541",
             "541",
-            "a₂-kuš₃",
-            "A₂",
+            "a<sub>2</sub>-kuš<sub>3</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 542",
             "542",
-            "a₂-tar",
-            "A₂",
+            "a<sub>2</sub>-tar",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 543",
             "543",
-            "a₂-GIRI₂-tag",
-            "A₂",
+            "a<sub>2</sub>-GIRI<sub>2</sub>-tag",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 544",
             "544",
-            "a₂-ur₂",
-            "A₂",
+            "a<sub>2</sub>-ur<sub>2</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 545",
             "545",
-            "a₂-mušen",
-            "A₂",
+            "a<sub>2</sub>-mušen",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 546",
             "546",
-            "⸢a₂⸣-LAGAB13",
-            "A₂",
+            "⸢a<sub>2</sub>⸣-LAGAB13",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 547",
             "547",
-            "⸢a₂⸣-azlag₂",
-            "A₂",
+            "⸢a<sub>2</sub>⸣-azlag<sub>2</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 548",
             "548",
-            "⸢a₂⸣-si",
-            "A₂",
+            "⸢a<sub>2</sub>⸣-si",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 549",
             "549",
-            "⸢a₂⸣-aka",
-            "A₂",
+            "⸢a<sub>2</sub>⸣-aka",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 550",
             "550",
-            "a₂-e-gil(GI₄:GI₄)",
-            "A₂",
+            "a<sub>2</sub>-e-gil(GI<sub>4</sub>:GI<sub>4</sub>)",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 551",
             "551",
-            "a₂-e-taḫ",
-            "A₂",
+            "a<sub>2</sub>-e-taḫ",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 552",
             "552",
-            "a₂-taḫ",
-            "A₂",
+            "a<sub>2</sub>-taḫ",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 553",
             "553",
-            "a₂-du₇",
-            "A₂",
+            "a<sub>2</sub>-du<sub>7</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 554",
             "554",
-            "a₂-ta-du₇",
-            "A₂",
+            "a<sub>2</sub>-ta-du<sub>7</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 555",
             "555",
-            "a₂-du₇-du₇",
-            "A₂",
+            "a<sub>2</sub>-du<sub>7</sub>-du<sub>7</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 556",
             "556",
-            "a₂-aŋ₂",
-            "A₂",
+            "a<sub>2</sub>-aĝ<sub>2</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 557",
             "557",
-            "a₂-ḫum",
-            "A₂",
+            "a<sub>2</sub>-ḫum",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 558",
             "558",
-            "a₂-nam",
-            "A₂",
+            "a<sub>2</sub>-nam",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 559",
             "559",
-            "a₂-a-tag",
-            "A₂",
+            "a<sub>2</sub>-a-tag",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 560",
             "560",
-            "a₂-GIRI₂",
-            "A₂",
+            "a<sub>2</sub>-GIRI<sub>2</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 561",
             "561",
-            "a₂-GIRI₂-ak",
-            "A₂",
+            "a<sub>2</sub>-GIRI<sub>2</sub>-ak",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 562",
             "562",
-            "a₂-dim₄",
-            "A₂",
+            "a<sub>2</sub>-dim<sub>4</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 563",
             "563",
-            "a₂-[…]-gi-⸢x⸣",
-            "A₂",
+            "a<sub>2</sub>-[…]-gi-⸢x⸣",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 564",
             "564",
-            "a₂-nu-gi₄",
-            "A₂",
+            "a<sub>2</sub>-nu-gi<sub>4</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 565",
             "565",
-            "a₂",
-            "A₂",
+            "a<sub>2</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 566",
             "566",
-            "a₂-ku₅",
-            "A₂",
+            "a<sub>2</sub>-ku<sub>5</sub>",
+            "A<sub>2</sub>",
             ";",
             ""
         ],
@@ -4555,7 +4555,7 @@
         [
             "VE 570",
             "570",
-            "gud₈-da",
+            "gud<sub>8</sub>-da",
             "DA",
             ";",
             ""
@@ -4563,7 +4563,7 @@
         [
             "VE 571",
             "571",
-            "balaŋ-di",
+            "balaĝ-di",
             "BALAG",
             ";",
             ""
@@ -4571,7 +4571,7 @@
         [
             "VE 572",
             "572",
-            "balaŋ",
+            "balaĝ",
             "BALAG",
             ";",
             ""
@@ -4579,191 +4579,191 @@
         [
             "VE 573",
             "573",
-            "ša₃-tur₃",
-            "ŠA₃",
+            "ša<sub>3</sub>-tur<sub>3</sub>",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 574",
             "574",
-            "ša₃-dab-dab",
-            "ŠA₃",
+            "ša<sub>3</sub>-dab-dab",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 575",
             "575",
-            "ša₃-dab",
-            "ŠA₃",
+            "ša<sub>3</sub>-dab",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 576",
             "576",
-            "ša₃-gal",
-            "ŠA₃",
+            "ša<sub>3</sub>-gal",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 577",
             "577",
-            "ša₃-KUR.KI",
-            "ŠA₃",
+            "ša<sub>3</sub>-KUR.KI",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 578",
             "578",
-            "ša₃-gid₂-gid₂",
-            "ŠA₃",
+            "ša<sub>3</sub>-gid<sub>2</sub>-gid<sub>2</sub>",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 579",
             "579",
-            "ša₃-a-ušₓ(LAK672)",
-            "ŠA₃",
+            "ša<sub>3</sub>-a-ušₓ(LAK672)",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 580",
             "580",
-            "ša₃-dar",
-            "ŠA₃",
+            "ša<sub>3</sub>-dar",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 581",
             "581",
-            "ša₃-zu",
-            "ŠA₃",
+            "ša<sub>3</sub>-zu",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 582",
             "582",
-            "ša₃-giggi",
-            "ŠA₃",
+            "ša<sub>3</sub>-giggi",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 583",
             "583",
-            "ša₃-gir₁₃",
-            "ŠA₃",
+            "ša<sub>3</sub>-gir<sub>13</sub>",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 584",
             "584",
-            "ša₃-ki-aŋ₂",
-            "ŠA₃",
+            "ša<sub>3</sub>-ki-aĝ<sub>2</sub>",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 585",
             "585",
-            "ŠA₃.TAR.KI",
-            "ŠA₃",
+            "ŠA<sub>3</sub>.TAR.KI",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 586",
             "586",
-            "ša₃-tar-sur",
-            "ŠA₃",
+            "ša<sub>3</sub>-tar-sur",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 587",
             "587",
-            "ša₃-niŋ₂-ŠUBUR(LAK39)",
-            "ŠA₃",
+            "ša<sub>3</sub>-niĝ<sub>2</sub>-ŠUBUR(LAK39)",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 588",
             "588",
-            "ša₃-šeg₁₂",
-            "ŠA₃",
+            "ša<sub>3</sub>-šeg<sub>12</sub>",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 589",
             "589",
-            "ša₃-ne-ša₄",
-            "ŠA₃",
+            "ša<sub>3</sub>-ne-ša<sub>4</sub>",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 590",
             "590",
-            "ša₃-ḫulu",
-            "ŠA₃",
+            "ša<sub>3</sub>-ḫulu",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 591",
             "591",
-            "ša₃-ḫulu-gig",
-            "ŠA₃",
+            "ša<sub>3</sub>-ḫulu-gig",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 592",
             "592",
-            "ša₃-kalag(LAK709a)",
-            "ŠA₃",
+            "ša<sub>3</sub>-kalag(LAK709a)",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 593",
             "593",
-            "ša₃-GURUŠ(LAK709b)",
-            "ŠA₃",
+            "ša<sub>3</sub>-GURUŠ(LAK709b)",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 594",
             "594",
-            "pešₓ(ŠA₃×GAL₄)",
-            "ŠA₃",
+            "pešₓ(ŠA<sub>3</sub>×GAL<sub>4</sub>)",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 595",
             "595",
-            "ša₃",
-            "ŠA₃",
+            "ša<sub>3</sub>",
+            "ŠA<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 596",
             "596",
-            "aktumtug₂",
+            "aktumtug<sub>2</sub>",
             "A",
             ";",
             ""
@@ -4779,7 +4779,7 @@
         [
             "VE 598",
             "598",
-            "e₂-MUŠ₃",
+            "e<sub>2</sub>-MUŠ<sub>3</sub>",
             "A",
             ";",
             ""
@@ -4787,7 +4787,7 @@
         [
             "VE 599",
             "599",
-            "a-⸢lu₃⸣-[lu₃]",
+            "a-⸢lu<sub>3</sub>⸣-[lu<sub>3</sub>]",
             "A",
             ";",
             ""
@@ -4795,7 +4795,7 @@
         [
             "VE 600",
             "600",
-            "[a-gar₅]",
+            "[a-gar<sub>5</sub>]",
             "A",
             ";",
             ""
@@ -4803,7 +4803,7 @@
         [
             "VE 601",
             "601",
-            "[a-ŋa₂-la₂]",
+            "[a-ĝa<sub>2</sub>-la<sub>2</sub>]",
             "A",
             ";",
             ""
@@ -4875,7 +4875,7 @@
         [
             "VE 610",
             "610",
-            "a-zaḫ₂",
+            "a-zaḫ<sub>2</sub>",
             "A",
             ";",
             ""
@@ -4883,7 +4883,7 @@
         [
             "VE 611",
             "611",
-            "a-ku₆",
+            "a-ku<sub>6</sub>",
             "A",
             ";",
             ""
@@ -4939,7 +4939,7 @@
         [
             "VE 618",
             "618",
-            "a-mu₂",
+            "a-mu<sub>2</sub>",
             "A",
             ";",
             ""
@@ -4971,7 +4971,7 @@
         [
             "VE 622",
             "622",
-            "a-gid₂-mušen",
+            "a-gid<sub>2</sub>-mušen",
             "A",
             ";",
             ""
@@ -4987,7 +4987,7 @@
         [
             "VE 624",
             "624",
-            "a-ŋal₂",
+            "a-ĝal<sub>2</sub>",
             "A",
             ";",
             ""
@@ -4995,7 +4995,7 @@
         [
             "VE 625",
             "625",
-            "a-ŋi₆",
+            "a-ĝi<sub>6</sub>",
             "A",
             ";",
             ""
@@ -5019,7 +5019,7 @@
         [
             "VE 628",
             "628",
-            "a-sa₂",
+            "a-sa<sub>2</sub>",
             "A",
             ";",
             ""
@@ -5027,7 +5027,7 @@
         [
             "VE 629",
             "629",
-            "a-niŋin₂",
+            "a-niĝin<sub>2</sub>",
             "A",
             ";",
             ""
@@ -5043,7 +5043,7 @@
         [
             "VE 631",
             "631",
-            "a-ur₄",
+            "a-ur<sub>4</sub>",
             "A",
             ";",
             ""
@@ -5059,7 +5059,7 @@
         [
             "VE 633",
             "633",
-            "a-e₃ i₃-giš",
+            "a-e<sub>3</sub> i<sub>3</sub>-giš",
             "A",
             ";",
             ""
@@ -5107,7 +5107,7 @@
         [
             "VE 639",
             "639",
-            "a-e₃",
+            "a-e<sub>3</sub>",
             "A",
             ";",
             ""
@@ -5187,7 +5187,7 @@
         [
             "VE 649",
             "649",
-            "išdayaₓ(ASARI)::še-:titab₂(MUNU₄.GUG₂)",
+            "išdayaₓ(ASARI)::še-:titab<sub>2</sub>(MUNU<sub>4</sub>.GUG<sub>2</sub>)",
             "ŠE",
             ";",
             ""
@@ -5203,7 +5203,7 @@
         [
             "VE 651",
             "651",
-            "še-in-ŋal₂",
+            "še-in-ĝal<sub>2</sub>",
             "ŠE",
             ";",
             ""
@@ -5243,7 +5243,7 @@
         [
             "VE 656",
             "656",
-            "še-ar₃-ar₃",
+            "še-ar<sub>3</sub>-ar<sub>3</sub>",
             "ŠE",
             ";",
             ""
@@ -5275,7 +5275,7 @@
         [
             "VE 660",
             "660",
-            "še-ŋeštin",
+            "še-ĝeštin",
             "ŠE",
             ";",
             ""
@@ -5283,7 +5283,7 @@
         [
             "VE 661",
             "661",
-            "še-zu₂",
+            "še-zu<sub>2</sub>",
             "ŠE",
             ";",
             ""
@@ -5291,7 +5291,7 @@
         [
             "VE 662",
             "662",
-            "tukur₂-tukur₂!(KA)",
+            "tukur<sub>2</sub>-tukur<sub>2</sub>!(KA)",
             "ŠE",
             ";",
             ""
@@ -5299,7 +5299,7 @@
         [
             "VE 663",
             "663",
-            "še-dim₂",
+            "še-dim<sub>2</sub>",
             "ŠE",
             ";",
             ""
@@ -5315,7 +5315,7 @@
         [
             "VE 665",
             "665",
-            "še-murgu-li₉-li₉",
+            "še-murgu-li<sub>9</sub>-li<sub>9</sub>",
             "ŠE",
             ";",
             ""
@@ -5331,7 +5331,7 @@
         [
             "VE 667",
             "667",
-            "še-u₂",
+            "še-u<sub>2</sub>",
             "ŠE",
             ";",
             ""
@@ -5339,7 +5339,7 @@
         [
             "VE 668",
             "668",
-            "ŠE.GUG₂",
+            "ŠE.GUG<sub>2</sub>",
             "ŠE",
             ";",
             ""
@@ -5371,7 +5371,7 @@
         [
             "še-ḫa-mul+A673:B676",
             "672",
-            "še-gibil₄",
+            "še-gibil<sub>4</sub>",
             "ŠE",
             ";",
             ""
@@ -5403,7 +5403,7 @@
         [
             "VE 676",
             "676",
-            "še-munu₄",
+            "še-munu<sub>4</sub>",
             "ŠE",
             ";",
             ""
@@ -5411,7 +5411,7 @@
         [
             "VE 677",
             "677",
-            "še-gaz₂",
+            "še-gaz<sub>2</sub>",
             "ŠE",
             ";",
             ""
@@ -5443,7 +5443,7 @@
         [
             "VE 681",
             "681",
-            "še-gur₁₀-ku₅",
+            "še-gur<sub>10</sub>-ku<sub>5</sub>",
             "ŠE",
             ";",
             ""
@@ -5451,7 +5451,7 @@
         [
             "VE 682",
             "682",
-            "še-gur₁₀",
+            "še-gur<sub>10</sub>",
             "ŠE",
             ";",
             ""
@@ -5459,7 +5459,7 @@
         [
             "VE 683",
             "683",
-            "še-ša₄",
+            "še-ša<sub>4</sub>",
             "ŠE",
             ";",
             ""
@@ -5467,7 +5467,7 @@
         [
             "VE 684",
             "684",
-            "še-AD₆(LAK339)",
+            "še-AD<sub>6</sub>(LAK339)",
             "ŠE",
             ";",
             ""
@@ -5475,7 +5475,7 @@
         [
             "VE 685",
             "685",
-            "še-muš₃",
+            "še-muš<sub>3</sub>",
             "ŠE",
             ";",
             ""
@@ -5483,7 +5483,7 @@
         [
             "VE 686",
             "686",
-            "ḫenbur₂",
+            "ḫenbur<sub>2</sub>",
             "ŠE",
             ";",
             ""
@@ -5491,7 +5491,7 @@
         [
             "VE 687",
             "687",
-            "še-AN-U₉",
+            "še-AN-U<sub>9</sub>",
             "ŠE",
             ";",
             ""
@@ -5507,7 +5507,7 @@
         [
             "VE 689",
             "689",
-            "še-bunₓ(U₉)-na",
+            "še-bunₓ(U<sub>9</sub>)-na",
             "ŠE",
             ";",
             ""
@@ -5523,7 +5523,7 @@
         [
             "VE 691",
             "691",
-            "še-u₃-suḫ₅",
+            "še-u<sub>3</sub>-suḫ<sub>5</sub>",
             "ŠE",
             ";",
             ""
@@ -5531,7 +5531,7 @@
         [
             "VE 692",
             "692",
-            "še-zar₃",
+            "še-zar<sub>3</sub>",
             "ŠE",
             ";",
             ""
@@ -5539,7 +5539,7 @@
         [
             "VE 693",
             "693",
-            "še-gin₂",
+            "še-gin<sub>2</sub>",
             "ŠE",
             ";",
             ""
@@ -5627,7 +5627,7 @@
         [
             "VE 704",
             "704",
-            "⸢u₆(IGI.KISAL)⸣16",
+            "⸢u<sub>6</sub>(IGI.KISAL)⸣16",
             "IGI",
             ";",
             ""
@@ -5651,7 +5651,7 @@
         [
             "VE 707",
             "707",
-            "agrig-mi₂",
+            "agrig-mi<sub>2</sub>",
             "IGI",
             ";",
             ""
@@ -5675,7 +5675,7 @@
         [
             "VE 710",
             "710",
-            "IGI-mi₂",
+            "IGI-mi<sub>2</sub>",
             "IGI",
             ";",
             ""
@@ -5683,7 +5683,7 @@
         [
             "VE 711",
             "711",
-            "igi-du₈",
+            "igi-du<sub>8</sub>",
             "IGI",
             ";",
             ""
@@ -5691,7 +5691,7 @@
         [
             "VE 712",
             "712",
-            "igi-du₈-du₈",
+            "igi-du<sub>8</sub>-du<sub>8</sub>",
             "IGI",
             ";",
             ""
@@ -5723,7 +5723,7 @@
         [
             "VE 716",
             "716",
-            "er₂-er₂",
+            "er<sub>2</sub>-er<sub>2</sub>",
             "IGI",
             ";",
             ""
@@ -5731,7 +5731,7 @@
         [
             "VE 717",
             "717",
-            "er₂",
+            "er<sub>2</sub>",
             "IGI",
             ";",
             ""
@@ -5755,7 +5755,7 @@
         [
             "VE 720",
             "720",
-            "palil₂",
+            "palil<sub>2</sub>",
             "IGI",
             ";",
             ""
@@ -5763,7 +5763,7 @@
         [
             "VE 721",
             "721",
-            "igi-tum₃",
+            "igi-tum<sub>3</sub>",
             "IGI",
             ";",
             ""
@@ -5779,7 +5779,7 @@
         [
             "VE 723",
             "723",
-            "igi-ila₂",
+            "igi-ila<sub>2</sub>",
             "IGI",
             ";",
             ""
@@ -5787,7 +5787,7 @@
         [
             "VE 724",
             "724",
-            "⸢igi⸣-saŋ",
+            "⸢igi⸣-saĝ",
             "IGI",
             ";",
             ""
@@ -5795,7 +5795,7 @@
         [
             "VE 725",
             "725",
-            "pad₃",
+            "pad<sub>3</sub>",
             "IGI",
             ";",
             ""
@@ -5819,7 +5819,7 @@
         [
             "VE 728",
             "728",
-            "igi-ŠEŠ₄-dub-igi-ŋar",
+            "igi-ŠEŠ<sub>4</sub>-dub-igi-ĝar",
             "IGI",
             ";",
             ""
@@ -5827,7 +5827,7 @@
         [
             "VE 729",
             "729",
-            "igi-ar₂",
+            "igi-ar<sub>2</sub>",
             "IGI",
             ";",
             ""
@@ -5835,7 +5835,7 @@
         [
             "VE 730",
             "730",
-            "igi-šub₄(LAK672)",
+            "igi-šub<sub>4</sub>(LAK672)",
             "IGI",
             ";",
             ""
@@ -5851,7 +5851,7 @@
         [
             "VE 732",
             "732",
-            "alim-mi₂",
+            "alim-mi<sub>2</sub>",
             "IGI",
             ";",
             ""
@@ -5859,7 +5859,7 @@
         [
             "VE 733",
             "733",
-            "igi-su₄",
+            "igi-su<sub>4</sub>",
             "IGI",
             ";",
             ""
@@ -5875,7 +5875,7 @@
         [
             "VE 735",
             "735",
-            "igi-ḫi-du₈",
+            "igi-ḫi-du<sub>8</sub>",
             "IGI",
             ";",
             ""
@@ -5883,7 +5883,7 @@
         [
             "VE 736",
             "736",
-            "igi-niŋin₂",
+            "igi-niĝin<sub>2</sub>",
             "IGI",
             ";",
             ""
@@ -5915,7 +5915,7 @@
         [
             "VE 740",
             "740",
-            "muš-laḫ₄",
+            "muš-laḫ<sub>4</sub>",
             "MUŠ",
             ";",
             ""
@@ -5939,7 +5939,7 @@
         [
             "VE 743",
             "743",
-            "ku₆-muš",
+            "ku<sub>6</sub>-muš",
             "MUŠ",
             ";",
             ""
@@ -5947,8 +5947,8 @@
         [
             "VE 744",
             "744",
-            "ku₆",
-            "KU₆",
+            "ku<sub>6</sub>",
+            "KU<sub>6</sub>",
             ";",
             ""
         ],
@@ -5956,7 +5956,7 @@
             "VE 745",
             "745",
             "gir",
-            "KU₆",
+            "KU<sub>6</sub>",
             ";",
             ""
         ],
@@ -5964,7 +5964,7 @@
             "VE 746",
             "746",
             "LAK225!",
-            "KU₆",
+            "KU<sub>6</sub>",
             ";",
             ""
         ],
@@ -5972,7 +5972,7 @@
             "VE 747",
             "747",
             "ḪA-ḪA-LUM17",
-            "KU₆",
+            "KU<sub>6</sub>",
             ";",
             ""
         ],
@@ -5987,7 +5987,7 @@
         [
             "VE 749",
             "749",
-            "ban₂",
+            "ban<sub>2</sub>",
             "Measures, tools",
             ";",
             ""
@@ -5995,7 +5995,7 @@
         [
             "VE 750",
             "750",
-            "šušanaₓ(ŠU₂+ŠA)",
+            "šušanaₓ(ŠU<sub>2</sub>+ŠA)",
             "Measures, tools",
             ";",
             ""
@@ -6019,7 +6019,7 @@
         [
             "VE 753",
             "753",
-            "3-NI gin₂",
+            "3-NI gin<sub>2</sub>",
             "Measures, tools",
             ";",
             ""
@@ -6027,7 +6027,7 @@
         [
             "VE 754",
             "754",
-            "GIN₂::DILMUN",
+            "GIN<sub>2</sub>::DILMUN",
             "Measures, tools",
             ";",
             ""
@@ -6035,7 +6035,7 @@
         [
             "VE 755",
             "755",
-            "aga₃-us₂",
+            "aga<sub>3</sub>-us<sub>2</sub>",
             "Measures, tools",
             ";",
             ""
@@ -6043,7 +6043,7 @@
         [
             "VE 756",
             "756",
-            "aga₃-kar₂!(ŠE₃)",
+            "aga<sub>3</sub>-kar<sub>2</sub>!(ŠE<sub>3</sub>)",
             "Measures, tools",
             ";",
             ""
@@ -6051,7 +6051,7 @@
         [
             "VE 757",
             "757",
-            "aga₃-gal",
+            "aga<sub>3</sub>-gal",
             "Measures, tools",
             ";",
             ""
@@ -6059,7 +6059,7 @@
         [
             "VE 758",
             "758",
-            "aga₃-tur",
+            "aga<sub>3</sub>-tur",
             "Measures, tools",
             ";",
             ""
@@ -6067,7 +6067,7 @@
         [
             "VE 759",
             "759",
-            "aga₃uruda",
+            "aga<sub>3</sub>uruda",
             "Measures, tools",
             ";",
             ""
@@ -6075,7 +6075,7 @@
         [
             "VE 760",
             "760",
-            "aga₃-bar",
+            "aga<sub>3</sub>-bar",
             "Measures, tools",
             ";",
             ""
@@ -6083,7 +6083,7 @@
         [
             "VE 761",
             "761",
-            "GIN₂.IR",
+            "GIN<sub>2</sub>.IR",
             "Measures, tools",
             ";",
             ""
@@ -6091,7 +6091,7 @@
         [
             "VE 762",
             "762",
-            "⸢bulug₄⸣-ḪAR[uruda]",
+            "⸢bulug<sub>4</sub>⸣-ḪAR[uruda]",
             "Measures, tools",
             ";",
             ""
@@ -6099,7 +6099,7 @@
         [
             "VE 763",
             "763",
-            "bulug₄-NAGARuruda",
+            "bulug<sub>4</sub>-NAGARuruda",
             "Measures, tools",
             ";",
             ""
@@ -6107,7 +6107,7 @@
         [
             "VE 764",
             "764",
-            "[bulug₄-dub-sal]",
+            "[bulug<sub>4</sub>-dub-sal]",
             "Measures, tools",
             ";",
             ""
@@ -6115,7 +6115,7 @@
         [
             "VE 765",
             "765",
-            "[bulug₄-dub-gur₄]",
+            "[bulug<sub>4</sub>-dub-gur<sub>4</sub>]",
             "Measures, tools",
             ";",
             ""
@@ -6131,7 +6131,7 @@
         [
             "VE 767",
             "767",
-            "[GIŠ₃×KID₂(LAK60)]",
+            "[GIŠ<sub>3</sub>×KID<sub>2</sub>(LAK60)]",
             "Measures, tools",
             ";",
             ""
@@ -6139,7 +6139,7 @@
         [
             "VE 768",
             "768",
-            "[ku₃-sig₁₇]",
+            "[ku<sub>3</sub>-sig<sub>17</sub>]",
             "Metals",
             ";",
             ""
@@ -6147,7 +6147,7 @@
         [
             "VE 769",
             "769",
-            "⸢ku₃::babbar⸣18",
+            "⸢ku<sub>3</sub>::babbar⸣18",
             "Metals",
             ";",
             ""
@@ -6155,7 +6155,7 @@
         [
             "VE 770",
             "770",
-            "e₃",
+            "e<sub>3</sub>",
             "UD",
             ";",
             ""
@@ -6163,7 +6163,7 @@
         [
             "VE 771",
             "771",
-            "ud-e₃",
+            "ud-e<sub>3</sub>",
             "UD",
             ";",
             ""
@@ -6179,7 +6179,7 @@
         [
             "VE 773",
             "773",
-            "na₄(UD.NI)",
+            "na<sub>4</sub>(UD.NI)",
             "UD",
             ";",
             ""
@@ -6203,7 +6203,7 @@
         [
             "VE 776",
             "776",
-            "dag₂dag",
+            "dag<sub>2</sub>dag",
             "UD",
             ";",
             ""
@@ -6211,7 +6211,7 @@
         [
             "VE 777",
             "777",
-            "ud-kar₂!(GANA₂)",
+            "ud-kar<sub>2</sub>!(GANA<sub>2</sub>)",
             "UD",
             ";",
             ""
@@ -6227,7 +6227,7 @@
         [
             "VE 779",
             "779",
-            "ḫad₂",
+            "ḫad<sub>2</sub>",
             "UD",
             ";",
             ""
@@ -6251,7 +6251,7 @@
         [
             "VE 782",
             "782",
-            "an-še₃",
+            "an-še<sub>3</sub>",
             "AN",
             ";",
             ""
@@ -6259,7 +6259,7 @@
         [
             "VE 783",
             "783",
-            "dgibil₄",
+            "dgibil<sub>4</sub>",
             "AN",
             ";",
             ""
@@ -6267,7 +6267,7 @@
         [
             "VE 784",
             "784",
-            "an-dul₃",
+            "an-dul<sub>3</sub>",
             "AN",
             ";",
             ""
@@ -6291,7 +6291,7 @@
         [
             "VE 787",
             "787",
-            "[an-us₂]",
+            "[an-us<sub>2</sub>]",
             "AN",
             ";",
             ""
@@ -6307,7 +6307,7 @@
         [
             "VE 789",
             "789",
-            "[an-ŋal₂]",
+            "[an-ĝal<sub>2</sub>]",
             "AN",
             ";",
             ""
@@ -6363,7 +6363,7 @@
         [
             "VE 796",
             "796",
-            "AN.ŠE₃.GU₂",
+            "AN.ŠE<sub>3</sub>.GU<sub>2</sub>",
             "AN",
             ";",
             ""
@@ -6379,7 +6379,7 @@
         [
             "VE 798",
             "798",
-            "dnin-⸢kar⸣-[ra₂]",
+            "dnin-⸢kar⸣-[ra<sub>2</sub>]",
             "AN",
             ";",
             ""
@@ -6411,7 +6411,7 @@
         [
             "VE 802",
             "802",
-            "den-lil₂",
+            "den-lil<sub>2</sub>",
             "AN",
             ";",
             ""
@@ -6467,7 +6467,7 @@
         [
             "VE 809",
             "809",
-            "dšara₂ra",
+            "dšara<sub>2</sub>ra",
             "AN",
             ";",
             ""
@@ -6507,7 +6507,7 @@
         [
             "VE 814",
             "814",
-            "dlu₂-maḫ",
+            "dlu<sub>2</sub>-maḫ",
             "AN",
             ";",
             ""
@@ -6523,7 +6523,7 @@
         [
             "VE 816",
             "816",
-            "ŋi₆-an",
+            "ĝi<sub>6</sub>-an",
             "AN",
             ";",
             ""
@@ -6531,8 +6531,8 @@
         [
             "VE 817",
             "817",
-            "ŋi₆-sa₂",
-            "GI₆",
+            "ĝi<sub>6</sub>-sa<sub>2</sub>",
+            "GI<sub>6</sub>",
             ";",
             ""
         ],
@@ -6540,7 +6540,7 @@
             "VE 818",
             "818",
             "MI-rum",
-            "GI₆",
+            "GI<sub>6</sub>",
             ";",
             ""
         ],
@@ -6548,7 +6548,7 @@
             "VE 819",
             "819",
             "giggi",
-            "GI₆",
+            "GI<sub>6</sub>",
             ";",
             ""
         ],
@@ -6556,15 +6556,15 @@
             "VE 820",
             "820",
             "ma-mu",
-            "GI₆",
+            "GI<sub>6</sub>",
             ";",
             ""
         ],
         [
             "VE 821",
             "821",
-            "[ma]-⸢dug₃⸣",
-            "PEŠ₃",
+            "[ma]-⸢dug<sub>3</sub>⸣",
+            "PEŠ<sub>3</sub>",
             ";",
             ""
         ],
@@ -6572,7 +6572,7 @@
             "VE 822",
             "822",
             "[ma-ra-dag]",
-            "PEŠ₃",
+            "PEŠ<sub>3</sub>",
             ";",
             ""
         ],
@@ -6580,7 +6580,7 @@
             "VE 823",
             "823",
             "[MA-za]",
-            "PEŠ₃",
+            "PEŠ<sub>3</sub>",
             ";",
             ""
         ],
@@ -6588,7 +6588,7 @@
             "VE 824",
             "824",
             "[MA-LU]",
-            "PEŠ₃",
+            "PEŠ<sub>3</sub>",
             ";",
             ""
         ],
@@ -6596,7 +6596,7 @@
             "VE 825",
             "825",
             "[silim-ma]",
-            "PEŠ₃",
+            "PEŠ<sub>3</sub>",
             ";",
             ""
         ],
@@ -6619,7 +6619,7 @@
         [
             "VE 828",
             "828",
-            "sa₂sag₇",
+            "sa<sub>2</sub>sag<sub>7</sub>",
             "DI",
             ";",
             ""
@@ -6627,7 +6627,7 @@
         [
             "VE 829",
             "829",
-            "sa₂sag₇-sag₇",
+            "sa<sub>2</sub>sag<sub>7</sub>-sag<sub>7</sub>",
             "DI",
             ";",
             ""
@@ -6643,7 +6643,7 @@
         [
             "VE 831",
             "831",
-            "sag₇-di",
+            "sag<sub>7</sub>-di",
             "DI",
             ";",
             ""
@@ -6651,7 +6651,7 @@
         [
             "VE 832",
             "832",
-            "sag₇-dag",
+            "sag<sub>7</sub>-dag",
             "DI",
             ";",
             ""
@@ -6659,7 +6659,7 @@
         [
             "VE 833",
             "833",
-            "sag₇",
+            "sag<sub>7</sub>",
             "DI",
             ";",
             ""
@@ -6683,7 +6683,7 @@
         [
             "VE 836",
             "836",
-            "⸢ki⸣-na₂21",
+            "⸢ki⸣-na<sub>2</sub>21",
             "KI",
             ";",
             ""
@@ -6691,7 +6691,7 @@
         [
             "VE 837",
             "837",
-            "kikiri₆",
+            "kikiri<sub>6</sub>",
             "KI",
             ";",
             ""
@@ -6723,7 +6723,7 @@
         [
             "VE 841",
             "841",
-            "NAD₃",
+            "NAD<sub>3</sub>",
             "KI",
             ";",
             ""
@@ -6731,7 +6731,7 @@
         [
             "VE 842",
             "842",
-            "gana₂-ki",
+            "gana<sub>2</sub>-ki",
             "KI",
             ";",
             ""
@@ -6739,7 +6739,7 @@
         [
             "VE 843",
             "843",
-            "gana₂-kešda",
+            "gana<sub>2</sub>-kešda",
             "KI",
             ";",
             ""
@@ -6771,7 +6771,7 @@
         [
             "VE 847",
             "847",
-            "NE.E₂",
+            "NE.E<sub>2</sub>",
             "IZI",
             ";",
             ""
@@ -6787,7 +6787,7 @@
         [
             "VE 849",
             "849",
-            "ne-šub₄(LAK672)",
+            "ne-šub<sub>4</sub>(LAK672)",
             "IZI",
             ";",
             ""
@@ -6803,7 +6803,7 @@
         [
             "VE 851",
             "851",
-            "erim₂",
+            "erim<sub>2</sub>",
             "IZI",
             ";",
             ""
@@ -6835,112 +6835,112 @@
         [
             "VE 855",
             "855",
-            "gid₂",
-            "GID₂",
+            "gid<sub>2</sub>",
+            "GID<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 856",
             "856",
-            "munu₄",
-            "GID₂",
+            "munu<sub>4</sub>",
+            "GID<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 857",
             "857",
-            "gid₂tug₂",
-            "GID₂",
+            "gid<sub>2</sub>tug<sub>2</sub>",
+            "GID<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 858",
             "858",
-            "NIN-TUG₂",
-            "TUG₂",
+            "NIN-TUG<sub>2</sub>",
+            "TUG<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 859",
             "859",
-            "[gadatug₂]",
-            "TUG₂",
+            "[gadatug<sub>2</sub>]",
+            "TUG<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 860",
             "860",
-            "[2-šutug₂]",
-            "TUG₂",
+            "[2-šutug<sub>2</sub>]",
+            "TUG<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 861",
             "861",
-            "[gu-dul₃tug₂]",
-            "TUG₂",
+            "[gu-dul<sub>3</sub>tug<sub>2</sub>]",
+            "TUG<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 862",
             "862",
-            "[gu-mugtug₂]",
-            "TUG₂",
+            "[gu-mugtug<sub>2</sub>]",
+            "TUG<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 863",
             "863",
-            "[ib₂-du₃tug₂]",
-            "TUG₂",
+            "[ib<sub>2</sub>-du<sub>3</sub>tug<sub>2</sub>]",
+            "TUG<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 864",
             "864",
-            "[ḫašₓ(IB₂.AŠ₂)]",
-            "TUG₂",
+            "[ḫašₓ(IB<sub>2</sub>.AŠ<sub>2</sub>)]",
+            "TUG<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 865",
             "865",
-            "[ib₂-la₂-du₃]",
-            "IB₂",
+            "[ib<sub>2</sub>-la<sub>2</sub>-du<sub>3</sub>]",
+            "IB<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 866",
             "866",
-            "[IB₂.GAL₄]",
-            "IB₂",
+            "[IB<sub>2</sub>.GAL<sub>4</sub>]",
+            "IB<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 867",
             "867",
-            "[ib₂]",
-            "IB₂",
+            "[ib<sub>2</sub>]",
+            "IB<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 868",
             "868",
-            "[gin₃za]",
-            "IB₂",
+            "[gin<sub>3</sub>za]",
+            "IB<sub>2</sub>",
             ";",
             ""
         ],
@@ -6971,7 +6971,7 @@
         [
             "VE 872",
             "872",
-            "⸢peš₂(LAK247)⸣23",
+            "⸢peš<sub>2</sub>(LAK247)⸣23",
             "Wild animals",
             ";",
             ""
@@ -6979,7 +6979,7 @@
         [
             "VE 873",
             "873",
-            "[NI-PEŠ₂(LAK247)]",
+            "[NI-PEŠ<sub>2</sub>(LAK247)]",
             "Wild animals",
             ";",
             ""
@@ -6995,7 +6995,7 @@
         [
             "VE 875",
             "875",
-            "ka₅24",
+            "ka<sub>5</sub>24",
             "Wild animals",
             ";",
             ""
@@ -7003,7 +7003,7 @@
         [
             "VE 876",
             "876",
-            "ḫub₂25",
+            "ḫub<sub>2</sub>25",
             "Wild animals",
             ";",
             ""
@@ -7011,7 +7011,7 @@
         [
             "VE 877",
             "877",
-            "ḫub₂-ḫub₂",
+            "ḫub<sub>2</sub>-ḫub<sub>2</sub>",
             "Wild animals",
             ";",
             ""
@@ -7027,72 +7027,72 @@
         [
             "VE 879",
             "879",
-            "i₃-tum₂",
-            "I₃",
+            "i<sub>3</sub>-tum<sub>2</sub>",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 880",
             "880",
-            "i₃-udu",
-            "I₃",
+            "i<sub>3</sub>-udu",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 881",
             "881",
-            "i₃-im-udu",
-            "I₃",
+            "i<sub>3</sub>-im-udu",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 882",
             "882",
-            "[i₃]-⸢gi⸣",
-            "I₃",
+            "[i<sub>3</sub>]-⸢gi⸣",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 883",
             "883",
-            "i₃-[dug₃]",
-            "I₃",
+            "i<sub>3</sub>-[dug<sub>3</sub>]",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 884",
             "884",
-            "i₃-⸢zaḫₓ(ŠEŠ)⸣",
-            "I₃",
+            "i<sub>3</sub>-⸢zaḫₓ(ŠEŠ)⸣",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 885",
             "885",
-            "i₃-zu",
-            "I₃",
+            "i<sub>3</sub>-zu",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 886",
             "886",
-            "i₃-nun",
-            "I₃",
+            "i<sub>3</sub>-nun",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 887",
             "887",
-            "i₃-⸢ti⸣",
-            "I₃",
+            "i<sub>3</sub>-⸢ti⸣",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
@@ -7100,23 +7100,23 @@
             "VE 888",
             "888",
             "ni-izi",
-            "I₃",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 889",
             "889",
-            "i₃-dim₂",
-            "I₃",
+            "i<sub>3</sub>-dim<sub>2</sub>",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 890",
             "890",
-            "NI-ir₇mušen",
-            "I₃",
+            "NI-ir<sub>7</sub>mušen",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
@@ -7124,47 +7124,47 @@
             "VE 891",
             "891",
             "ni⸢mušen⸣",
-            "I₃",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 892",
             "892",
-            "i₃-ra₂-ra₂",
-            "I₃",
+            "i<sub>3</sub>-ra<sub>2</sub>-ra<sub>2</sub>",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 893",
             "893",
-            "NI-MUŠ₃",
-            "I₃",
+            "NI-MUŠ<sub>3</sub>",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 894",
             "894",
-            "i₃-a-DU",
-            "I₃",
+            "i<sub>3</sub>-a-DU",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 895",
             "895",
-            "i₃-ŋeš",
-            "I₃",
+            "i<sub>3</sub>-ĝeš",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 896",
             "896",
-            "i₃-⸢ku₂⸣",
-            "I₃",
+            "i<sub>3</sub>-⸢ku<sub>2</sub>⸣",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
@@ -7172,22 +7172,22 @@
             "VE 897",
             "897",
             "NI-peš",
-            "I₃",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 898",
             "898",
-            "i₃-i",
-            "I₃",
+            "i<sub>3</sub>-i",
+            "I<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 899",
             "899",
-            "na-[ru₂]",
+            "na-[ru<sub>2</sub>]",
             "NA",
             ";",
             ""
@@ -7195,7 +7195,7 @@
         [
             "VE 900",
             "900",
-            "⸢na⸣-[se₁₁]",
+            "⸢na⸣-[se<sub>11</sub>]",
             "NA",
             ";",
             ""
@@ -7235,7 +7235,7 @@
         [
             "VE 905",
             "905",
-            "[titug₂]",
+            "[titug<sub>2</sub>]",
             "TI",
             ";",
             ""
@@ -7259,7 +7259,7 @@
         [
             "VE 908",
             "908",
-            "uru₁₆-nun-ak",
+            "uru<sub>16</sub>-nun-ak",
             "EN",
             ";",
             ""
@@ -7275,31 +7275,31 @@
         [
             "VE 910",
             "910",
-            "ze₂",
-            "ZE₂",
+            "ze<sub>2</sub>",
+            "ZE<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 911",
             "911",
-            "ze₂-gun₃27",
-            "ZE₂",
+            "ze<sub>2</sub>-gun<sub>3</sub>27",
+            "ZE<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 912",
             "912",
-            "gun₃mušen",
-            "ZE₂",
+            "gun<sub>3</sub>mušen",
+            "ZE<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 913",
             "913",
-            "tum₁₂-turmušen",
+            "tum<sub>12</sub>-turmušen",
             "TU",
             ";",
             ""
@@ -7307,7 +7307,7 @@
         [
             "VE 914",
             "914",
-            "tum₁₂mušen",
+            "tum<sub>12</sub>mušen",
             "TU",
             ";",
             ""
@@ -7315,7 +7315,7 @@
         [
             "VE 915",
             "915",
-            "tum₁₂-gur₄mušen",
+            "tum<sub>12</sub>-gur<sub>4</sub>mušen",
             "TU",
             ";",
             ""
@@ -7323,7 +7323,7 @@
         [
             "VE 916",
             "916",
-            "tum₁₂-gur₄-turmušen28",
+            "tum<sub>12</sub>-gur<sub>4</sub>-turmušen28",
             "TU",
             ";",
             ""
@@ -7363,7 +7363,7 @@
         [
             "VE 921",
             "921",
-            "⸢uwaₓ(U₈)⸣",
+            "⸢uwaₓ(U<sub>8</sub>)⸣",
             "Livestock",
             ";",
             ""
@@ -7371,7 +7371,7 @@
         [
             "VE 922",
             "922",
-            "sila₄",
+            "sila<sub>4</sub>",
             "Livestock",
             ";",
             ""
@@ -7395,7 +7395,7 @@
         [
             "VE 925",
             "925",
-            "ud₅",
+            "ud<sub>5</sub>",
             "Livestock",
             ";",
             ""
@@ -7411,7 +7411,7 @@
         [
             "VE 927",
             "927",
-            "maš₂",
+            "maš<sub>2</sub>",
             "Livestock",
             ";",
             ""
@@ -7419,7 +7419,7 @@
         [
             "VE 928",
             "928",
-            "ešgar(MUNUS.AŠ₂.GAR₃)",
+            "ešgar(MUNUS.AŠ<sub>2</sub>.GAR<sub>3</sub>)",
             "Livestock",
             ";",
             ""
@@ -7435,7 +7435,7 @@
         [
             "VE 930",
             "930",
-            "ab₂::peš",
+            "ab<sub>2</sub>::peš",
             "Livestock",
             ";",
             ""
@@ -7459,7 +7459,7 @@
         [
             "VE 933",
             "933",
-            "sila₃",
+            "sila<sub>3</sub>",
             "Fluid containers",
             ";",
             ""
@@ -7475,7 +7475,7 @@
         [
             "VE 935",
             "935",
-            "dar-ab₂",
+            "dar-ab<sub>2</sub>",
             "Fluid containers",
             ";",
             ""
@@ -7499,7 +7499,7 @@
         [
             "VE 938",
             "938",
-            "⸢dug⸣-[gur₄]",
+            "⸢dug⸣-[gur<sub>4</sub>]",
             "Fluid containers",
             ";",
             ""
@@ -7507,7 +7507,7 @@
         [
             "VE 939",
             "939",
-            "[dug-gur₄-gur₄]",
+            "[dug-gur<sub>4</sub>-gur<sub>4</sub>]",
             "Fluid containers",
             ";",
             ""
@@ -7531,7 +7531,7 @@
         [
             "VE 942",
             "942",
-            "[lal₃]",
+            "[lal<sub>3</sub>]",
             "Fluid containers",
             ";",
             ""
@@ -7563,7 +7563,7 @@
         [
             "VE 946",
             "946",
-            "tug₂::du₈",
+            "tug<sub>2</sub>::du<sub>8</sub>",
             "Professions",
             ";",
             ""
@@ -7587,7 +7587,7 @@
         [
             "VE 949",
             "949",
-            "ga-du₈",
+            "ga-du<sub>8</sub>",
             "GABA",
             ";",
             ""
@@ -7611,7 +7611,7 @@
         [
             "VE 952",
             "952",
-            "ugula-e₂",
+            "ugula-e<sub>2</sub>",
             "ugula",
             ";",
             ""
@@ -7643,7 +7643,7 @@
         [
             "VE 956",
             "956",
-            "maškim-e-gi₄",
+            "maškim-e-gi<sub>4</sub>",
             "ugula",
             ";",
             ""
@@ -7659,7 +7659,7 @@
         [
             "VE 958",
             "958",
-            "mu₆-sub₃",
+            "mu<sub>6</sub>-sub<sub>3</sub>",
             "ugula",
             ";",
             ""
@@ -7683,47 +7683,47 @@
         [
             "VE 961",
             "961",
-            "ma₂-NE",
-            "MA₂",
+            "ma<sub>2</sub>-NE",
+            "MA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 962",
             "962",
-            "ma₂-laḫ₄",
-            "MA₂",
+            "ma<sub>2</sub>-laḫ<sub>4</sub>",
+            "MA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 963",
             "963",
-            "u₅(MA₂.ḪU)",
-            "MA₂",
+            "u<sub>5</sub>(MA<sub>2</sub>.ḪU)",
+            "MA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 964",
             "964",
-            "ma₂-GUR₈",
-            "MA₂",
+            "ma<sub>2</sub>-GUR<sub>8</sub>",
+            "MA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 965",
             "965",
-            "mar!(SIG₇-)uru₅32",
-            "MA₂",
+            "mar!(SIG<sub>7</sub>-)uru<sub>5</sub>32",
+            "MA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 966",
             "966",
-            "ḫab₂",
+            "ḫab<sub>2</sub>",
             "Red liquids",
             ";",
             ""
@@ -7731,7 +7731,7 @@
         [
             "VE 967",
             "967",
-            "ŋeštin",
+            "ĝeštin",
             "Red liquids",
             ";",
             ""
@@ -7739,7 +7739,7 @@
         [
             "VE 968",
             "968",
-            "AD₆(LAK339).A-na",
+            "AD<sub>6</sub>(LAK339).A-na",
             "Red liquids",
             ";",
             ""
@@ -7747,7 +7747,7 @@
         [
             "VE 969",
             "969",
-            "AD₆(LAK339).<A>-ŋeštin",
+            "AD<sub>6</sub>(LAK339).<A>-ĝeštin",
             "Red liquids",
             ";",
             ""
@@ -7771,7 +7771,7 @@
         [
             "VE 972",
             "972",
-            "siki-ud₅",
+            "siki-ud<sub>5</sub>",
             "SIKI",
             ";",
             ""
@@ -7795,7 +7795,7 @@
         [
             "VE 975",
             "975",
-            "[siki-gu-ša₃-DU]",
+            "[siki-gu-ša<sub>3</sub>-DU]",
             "SIKI",
             ";",
             ""
@@ -7819,7 +7819,7 @@
         [
             "VE 978",
             "978",
-            "[kaskal-erim₂]",
+            "[kaskal-erim<sub>2</sub>]",
             "KASKAL",
             ";",
             ""
@@ -7827,7 +7827,7 @@
         [
             "VE 979",
             "979",
-            "kas₄33",
+            "kas<sub>4</sub>33",
             "KASKAL",
             ";",
             ""
@@ -7835,7 +7835,7 @@
         [
             "VE 980",
             "980",
-            "kas₄-kas₄-di",
+            "kas<sub>4</sub>-kas<sub>4</sub>-di",
             "KASKAL",
             ";",
             ""
@@ -7851,7 +7851,7 @@
         [
             "VE 982",
             "982",
-            "al₆-BU",
+            "al<sub>6</sub>-BU",
             "MAḪ",
             ";",
             ""
@@ -7859,7 +7859,7 @@
         [
             "VE 983",
             "983",
-            "al₆-tuš",
+            "al<sub>6</sub>-tuš",
             "MAḪ",
             ";",
             ""
@@ -7867,7 +7867,7 @@
         [
             "VE 984",
             "984",
-            "al₆-DU34",
+            "al<sub>6</sub>-DU34",
             "MAḪ",
             ";",
             ""
@@ -7875,7 +7875,7 @@
         [
             "VE 985",
             "985",
-            "al₆-ug₇",
+            "al<sub>6</sub>-ug<sub>7</sub>",
             "MAḪ",
             ";",
             ""
@@ -7883,7 +7883,7 @@
         [
             "VE 986",
             "986",
-            "al₆-ŋiri₂-tag",
+            "al<sub>6</sub>-ĝiri<sub>2</sub>-tag",
             "MAḪ",
             ";",
             ""
@@ -7891,7 +7891,7 @@
         [
             "VE 987",
             "987",
-            "al₆-en₃-tar35",
+            "al<sub>6</sub>-en<sub>3</sub>-tar35",
             "MAḪ",
             ";",
             ""
@@ -7899,7 +7899,7 @@
         [
             "VE 988",
             "988",
-            "al₆-LI",
+            "al<sub>6</sub>-LI",
             ";",
             ";",
             ""
@@ -7907,7 +7907,7 @@
         [
             "VE 989",
             "989",
-            "al₆-dab",
+            "al<sub>6</sub>-dab",
             "MAḪ",
             ";",
             ""
@@ -7915,7 +7915,7 @@
         [
             "VE 990",
             "990",
-            "al₆-dab-dab",
+            "al<sub>6</sub>-dab-dab",
             "MAḪ",
             ";",
             ""
@@ -7923,7 +7923,7 @@
         [
             "VE 991",
             "991",
-            "al₆-ŋal₂",
+            "al<sub>6</sub>-ĝal<sub>2</sub>",
             "MAḪ",
             ";",
             ""
@@ -7931,7 +7931,7 @@
         [
             "VE 992",
             "992",
-            "al₆-kešda",
+            "al<sub>6</sub>-kešda",
             "MAḪ",
             ";",
             ""
@@ -7939,7 +7939,7 @@
         [
             "VE 993",
             "993",
-            "al₆-bal",
+            "al<sub>6</sub>-bal",
             "MAḪ",
             ";",
             ""
@@ -7955,8 +7955,8 @@
         [
             "VE 995",
             "995",
-            "gir₇",
-            "GIR₇",
+            "gir<sub>7</sub>",
+            "GIR<sub>7</sub>",
             ";",
             ""
         ],
@@ -7964,23 +7964,23 @@
             "VE 996",
             "996",
             "suḫuš",
-            "GIR₇",
+            "GIR<sub>7</sub>",
             ";",
             ""
         ],
         [
             "VE 997",
             "997",
-            "gir₇-tab",
-            "GIR₇",
+            "gir<sub>7</sub>-tab",
+            "GIR<sub>7</sub>",
             ";",
             ""
         ],
         [
             "VE 998",
             "998",
-            "tum₂-ma",
-            "GIR₇",
+            "tum<sub>2</sub>-ma",
+            "GIR<sub>7</sub>",
             ";",
             ""
         ],
@@ -7988,7 +7988,7 @@
             "VE 999",
             "999",
             "URI::DU",
-            "GIR₇",
+            "GIR<sub>7</sub>",
             ";",
             ""
         ],
@@ -7996,7 +7996,7 @@
             "VE 1000",
             "1000",
             "DU.DU",
-            "GIR₇",
+            "GIR<sub>7</sub>",
             ";",
             ""
         ],
@@ -8004,7 +8004,7 @@
             "VE 1001",
             "1001",
             "DU-[LAGAB]",
-            "GIR₇",
+            "GIR<sub>7</sub>",
             ";",
             ""
         ],
@@ -8012,14 +8012,14 @@
             "VE 1002",
             "1002",
             "DU",
-            "GIR₇",
+            "GIR<sub>7</sub>",
             ";",
             ""
         ],
         [
             "VE 1003",
             "1003",
-            "KU₇",
+            "KU<sub>7</sub>",
             "Varia",
             ";",
             ""
@@ -8027,7 +8027,7 @@
         [
             "VE 1004",
             "1004",
-            "kad₄mušen",
+            "kad<sub>4</sub>mušen",
             "Varia",
             ";",
             ""
@@ -8075,7 +8075,7 @@
         [
             "VE 1010",
             "1010",
-            "muš₃",
+            "muš<sub>3</sub>",
             ";",
             ";",
             ""
@@ -8091,7 +8091,7 @@
         [
             "VE 1012",
             "1012",
-            "baḫar₂!(BAḪAR₄)",
+            "baḫar<sub>2</sub>!(BAḪAR<sub>4</sub>)",
             "Varia",
             ";",
             ""
@@ -8099,7 +8099,7 @@
         [
             "VE 1013",
             "1013",
-            "BAḪAR₄-GI",
+            "BAḪAR<sub>4</sub>-GI",
             "Varia",
             ";",
             ""
@@ -8131,7 +8131,7 @@
         [
             "VE 1017",
             "1017",
-            "[sudₓ(SU)-GIR₂g]",
+            "[sudₓ(SU)-GIR<sub>2</sub>g]",
             "KUŠ",
             ";",
             ""
@@ -8147,7 +8147,7 @@
         [
             "VE 1019",
             "1019",
-            "[e₆(SU)]",
+            "[e<sub>6</sub>(SU)]",
             "KUŠ",
             ";",
             ""
@@ -8155,7 +8155,7 @@
         [
             "VE 1020",
             "1020",
-            "gar₃-su",
+            "gar<sub>3</sub>-su",
             ";",
             ";",
             ""
@@ -8179,7 +8179,7 @@
         [
             "VE 1023",
             "1023",
-            "[GUR₈]",
+            "[GUR<sub>8</sub>]",
             "Rhomboidal signs",
             ";",
             ""
@@ -8235,39 +8235,39 @@
         [
             "VE 1030",
             "1030",
-            "gu₂",
-            "GA₂",
+            "gu<sub>2</sub>",
+            "GA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1031",
             "1031",
-            "gu₂-bal",
-            "GA₂",
+            "gu<sub>2</sub>-bal",
+            "GA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1032",
             "1032",
-            "gu₂-gil(GI₄:GI₄)",
-            "GA₂",
+            "gu<sub>2</sub>-gil(GI<sub>4</sub>:GI<sub>4</sub>)",
+            "GA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1033",
             "1033",
-            "gu₂-ŋeš-ŋal₂",
-            "GA₂",
+            "gu<sub>2</sub>-ĝeš-ĝal<sub>2</sub>",
+            "GA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1034",
             "1034",
-            "gu₂-gal₂",
+            "gu<sub>2</sub>-gal<sub>2</sub>",
             ";",
             ";",
             ""
@@ -8275,7 +8275,7 @@
         [
             "VE 1035",
             "1035",
-            "ad-gil(GI₄:GI₄)",
+            "ad-gil(GI<sub>4</sub>:GI<sub>4</sub>)",
             "AD",
             ";",
             ""
@@ -8283,7 +8283,7 @@
         [
             "VE 1036",
             "1036",
-            "ad-gi₄",
+            "ad-gi<sub>4</sub>",
             "AD",
             ";",
             ""
@@ -8299,7 +8299,7 @@
         [
             "VE 1038",
             "1038",
-            "ad-la₂",
+            "ad-la<sub>2</sub>",
             "AD",
             ";",
             ""
@@ -8315,7 +8315,7 @@
         [
             "VE 1040",
             "1040",
-            "gara₂",
+            "gara<sub>2</sub>",
             "Liquids",
             ";",
             ""
@@ -8339,7 +8339,7 @@
         [
             "VE 1043",
             "1043",
-            "šeš-ŋu₁₀",
+            "šeš-ĝu<sub>10</sub>",
             "Varia",
             ";",
             ""
@@ -8347,7 +8347,7 @@
         [
             "VE 1044",
             "1044",
-            "ama-ŋu₁₀",
+            "ama-ĝu<sub>10</sub>",
             "Varia",
             ";",
             ""
@@ -8355,7 +8355,7 @@
         [
             "VE 1045",
             "1045",
-            "pa₄::šeš",
+            "pa<sub>4</sub>::šeš",
             "Varia",
             ";",
             ""
@@ -8379,7 +8379,7 @@
         [
             "VE 1048",
             "1048",
-            "zi-du₈",
+            "zi-du<sub>8</sub>",
             "ZI",
             ";",
             ""
@@ -8387,7 +8387,7 @@
         [
             "VE 1049",
             "1049",
-            "zi-du₈::du₈",
+            "zi-du<sub>8</sub>::du<sub>8</sub>",
             "ZI",
             ";",
             ""
@@ -8403,7 +8403,7 @@
         [
             "VE 1051",
             "1051",
-            "GA₂-NU₁₁(LAK24)",
+            "GA<sub>2</sub>-NU<sub>11</sub>(LAK24)",
             "PISAN",
             ";",
             ""
@@ -8411,7 +8411,7 @@
         [
             "VE 1052",
             "1052",
-            "nummaₓ(GA₂.NU₁₁(LAK24))mušen",
+            "nummaₓ(GA<sub>2</sub>.NU<sub>11</sub>(LAK24))mušen",
             "PISAN",
             ";",
             ""
@@ -8451,7 +8451,7 @@
         [
             "VE 1057",
             "1057",
-            "[ama-gi₄]",
+            "[ama-gi<sub>4</sub>]",
             "PISAN",
             ";",
             ""
@@ -8459,7 +8459,7 @@
         [
             "VE 1058",
             "1058",
-            "[ama-ug₅-ga]",
+            "[ama-ug<sub>5</sub>-ga]",
             "PISAN",
             ";",
             ""
@@ -8467,7 +8467,7 @@
         [
             "VE 1059",
             "1059",
-            "[GA₂×GEME₂-gi₄]",
+            "[GA<sub>2</sub>×GEME<sub>2</sub>-gi<sub>4</sub>]",
             "PISAN",
             ";",
             ""
@@ -8491,7 +8491,7 @@
         [
             "VE 1062",
             "1062",
-            "[kunga₂]",
+            "[kunga<sub>2</sub>]",
             "Varia",
             ";",
             ""
@@ -8499,7 +8499,7 @@
         [
             "VE 1063",
             "1063",
-            "[kunga₂-mi₂]",
+            "[kunga<sub>2</sub>-mi<sub>2</sub>]",
             "Varia",
             ";",
             ""
@@ -8507,7 +8507,7 @@
         [
             "VE 1064",
             "1064",
-            "[surₓ(ERIN₂)-kunga₂]",
+            "[surₓ(ERIN<sub>2</sub>)-kunga<sub>2</sub>]",
             "Varia",
             ";",
             ""
@@ -8515,7 +8515,7 @@
         [
             "VE 1065",
             "1065",
-            "[ugula-surₓ(ERIN₂)-kunga₂]",
+            "[ugula-surₓ(ERIN<sub>2</sub>)-kunga<sub>2</sub>]",
             "Varia",
             ";",
             ""
@@ -8539,7 +8539,7 @@
         [
             "VE 1068",
             "1068",
-            "⸢titab₂(MUNU₄.GUG₂)⸣",
+            "⸢titab<sub>2</sub>(MUNU<sub>4</sub>.GUG<sub>2</sub>)⸣",
             "Varia",
             ";",
             ""
@@ -8555,7 +8555,7 @@
         [
             "VE 1070",
             "1070",
-            "šar₂-li",
+            "šar<sub>2</sub>-li",
             "ḪI",
             ";",
             ""
@@ -8563,7 +8563,7 @@
         [
             "VE 1071",
             "1071",
-            "šar₂",
+            "šar<sub>2</sub>",
             "ḪI",
             ";",
             ""
@@ -8572,7 +8572,7 @@
             "VE 1072",
             "1072",
             "ḫi-mu-sar",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8580,7 +8580,7 @@
             "VE 1073",
             "1073",
             "ḪIsar",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8588,15 +8588,15 @@
             "VE 1074",
             "1074",
             "UL-SAR",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
         [
             "VE 1075",
             "1075",
-            "gar₃sar",
-            "KIRI₆",
+            "gar<sub>3</sub>sar",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8604,7 +8604,7 @@
             "VE 1076",
             "1076",
             "sumsar",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8612,7 +8612,7 @@
             "VE 1077",
             "1077",
             "sum-kur",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8620,7 +8620,7 @@
             "VE 1078",
             "1078",
             "sum-kursar",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8628,7 +8628,7 @@
             "VE 1079",
             "1079",
             "gagarašₓ(KASKAL)sar",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8636,15 +8636,15 @@
             "VE 1080",
             "1080",
             "sum-sikilsar",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
         [
             "VE 1081",
             "1081",
-            "munu₄sar",
-            "KIRI₆",
+            "munu<sub>4</sub>sar",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8652,7 +8652,7 @@
             "VE 1082",
             "1082",
             "ḫi-lisar",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8660,7 +8660,7 @@
             "VE 1083",
             "1083",
             "mu-sar",
-            "KIRI₆",
+            "KIRI<sub>6</sub>",
             ";",
             ""
         ],
@@ -8683,7 +8683,7 @@
         [
             "VE 1086",
             "1086",
-            "dumu-mi₂",
+            "dumu-mi<sub>2</sub>",
             "TUR",
             ";",
             ""
@@ -8700,7 +8700,7 @@
             "VE 1088",
             "1088",
             "nam-en",
-            "BIR₅",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
@@ -8708,31 +8708,31 @@
             "VE 1089",
             "1089",
             "nam-nam-en",
-            "BIR₅",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
         [
             "VE 1090",
             "1090",
-            "nam-ku₅",
-            "BIR₅",
+            "nam-ku<sub>5</sub>",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
         [
             "VE 1091",
             "1091",
-            "bir₅-ur",
-            "BIR₅",
+            "bir<sub>5</sub>-ur",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
         [
             "VE 1092",
             "1092",
-            "[bir₅-na-DU.DU]",
-            "BIR₅",
+            "[bir<sub>5</sub>-na-DU.DU]",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
@@ -8740,23 +8740,23 @@
             "VE 1093",
             "1093",
             "[nam-ra-ak]",
-            "BIR₅",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
         [
             "VE 1094",
             "1094",
-            "[bir₅-gin₃]",
-            "BIR₅",
+            "[bir<sub>5</sub>-gin<sub>3</sub>]",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
         [
             "VE 1095",
             "1095",
-            "⸢bir₅⸣-[gin₃mušen]",
-            "BIR₅",
+            "⸢bir<sub>5</sub>⸣-[gin<sub>3</sub>mušen]",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
@@ -8764,23 +8764,23 @@
             "VE 1096",
             "1096",
             "⸢sim⸣-[ma]",
-            "BIR₅",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
         [
             "VE 1097",
             "1097",
-            "⸢bir₅⸣-[DARmušen]",
-            "BIR₅",
+            "⸢bir<sub>5</sub>⸣-[DARmušen]",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
         [
             "VE 1098",
             "1098",
-            "⸢bir₅⸣",
-            "BIR₅",
+            "⸢bir<sub>5</sub>⸣",
+            "BIR<sub>5</sub>",
             ";",
             ""
         ],
@@ -8803,7 +8803,7 @@
         [
             "VE 1101",
             "1101",
-            "AB₂.LU",
+            "AB<sub>2</sub>.LU",
             "Varia",
             ";",
             ""
@@ -8811,7 +8811,7 @@
         [
             "VE 1102",
             "1102",
-            "ab₂mušen",
+            "ab<sub>2</sub>mušen",
             "Varia",
             ";",
             ""
@@ -8819,7 +8819,7 @@
         [
             "VE 1103",
             "1103",
-            "ab₂",
+            "ab<sub>2</sub>",
             ";",
             ";",
             ""
@@ -8827,7 +8827,7 @@
         [
             "VE 1104",
             "1104",
-            "za-gir₅",
+            "za-gir<sub>5</sub>",
             "ZA",
             ";",
             ""
@@ -8843,7 +8843,7 @@
         [
             "VE 1106",
             "1106",
-            "ŋeš₃",
+            "ĝeš<sub>3</sub>",
             "GEŠ",
             ";",
             ""
@@ -8851,7 +8851,7 @@
         [
             "VE 1107",
             "1107",
-            "ŋeš₃tug₂",
+            "ĝeš<sub>3</sub>tug<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -8859,7 +8859,7 @@
         [
             "VE 1108",
             "1108",
-            "ŋeš₃uruda",
+            "ĝeš<sub>3</sub>uruda",
             "GEŠ",
             ";",
             ""
@@ -8867,7 +8867,7 @@
         [
             "VE 1109",
             "1109",
-            "ŋeš₃-di",
+            "ĝeš<sub>3</sub>-di",
             "GEŠ",
             ";",
             ""
@@ -8875,7 +8875,7 @@
         [
             "VE 1110",
             "1110",
-            "bar-us₂",
+            "bar-us<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -8883,7 +8883,7 @@
         [
             "VE 1111",
             "1111",
-            "ŋeš₃-bar",
+            "ĝeš<sub>3</sub>-bar",
             "GEŠ",
             ";",
             ""
@@ -8891,7 +8891,7 @@
         [
             "VE 1112",
             "1112",
-            "ŋeš₃-rum",
+            "ĝeš<sub>3</sub>-rum",
             "GEŠ",
             ";",
             ""
@@ -8899,7 +8899,7 @@
         [
             "VE 1113",
             "1113",
-            "ŋeš₃-gid₂",
+            "ĝeš<sub>3</sub>-gid<sub>2</sub>",
             "GEŠ",
             ";",
             ""
@@ -8907,16 +8907,16 @@
         [
             "VE 1114",
             "1114",
-            "ganbaₓ(LAM₇.KI)",
-            "IŠ₁₁",
+            "ganbaₓ(LAM<sub>7</sub>.KI)",
+            "IŠ<sub>11</sub>",
             ";",
             ""
         ],
         [
             "VE 1115",
             "1115",
-            "IŠ₁₁-KAK",
-            "IŠ₁₁",
+            "IŠ<sub>11</sub>-KAK",
+            "IŠ<sub>11</sub>",
             ";",
             ""
         ],
@@ -8947,7 +8947,7 @@
         [
             "VE 1119",
             "1119",
-            "si-sa₂",
+            "si-sa<sub>2</sub>",
             "SI",
             ";",
             ""
@@ -8955,7 +8955,7 @@
         [
             "VE 1120",
             "1120",
-            "si-udu-ur₄",
+            "si-udu-ur<sub>4</sub>",
             "SI",
             ";",
             ""
@@ -8963,7 +8963,7 @@
         [
             "VE 1121",
             "1121",
-            "si-ur₄",
+            "si-ur<sub>4</sub>",
             "SI",
             ";",
             ""
@@ -8987,7 +8987,7 @@
         [
             "VE 1124",
             "1124",
-            "sukudₓ(TA×SIG₇(LAK586)) ...37",
+            "sukudₓ(TA×SIG<sub>7</sub>(LAK586)) ...37",
             "Varia",
             ";",
             ""
@@ -9011,80 +9011,80 @@
         [
             "VE 1127",
             "1127",
-            "ŋiri₂::mar-:TU",
-            "GIRI₂",
+            "ĝiri<sub>2</sub>::mar-:TU",
+            "GIRI<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1128",
             "1128",
-            "ŋiri₂",
-            "GIRI₂",
+            "ĝiri<sub>2</sub>",
+            "GIRI<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1129",
             "1129",
-            "⸢ad₂⸣",
-            "GIRI₂",
+            "⸢ad<sub>2</sub>⸣",
+            "GIRI<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1130",
             "1130",
-            "u₃-ma",
-            "U₃",
+            "u<sub>3</sub>-ma",
+            "U<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 1131",
             "1131",
-            "u₃-sa₂",
-            "U₃",
+            "u<sub>3</sub>-sa<sub>2</sub>",
+            "U<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 1132",
             "1132",
-            "u₃-sa₂-sa₂",
-            "U₃",
+            "u<sub>3</sub>-sa<sub>2</sub>-sa<sub>2</sub>",
+            "U<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 1133",
             "1133",
-            "u₃-urun",
-            "U₃",
+            "u<sub>3</sub>-urun",
+            "U<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 1134",
             "1134",
-            "u₃-sar",
-            "U₃",
+            "u<sub>3</sub>-sar",
+            "U<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 1135",
             "1135",
-            "u₃-sar-ak",
-            "U₃",
+            "u<sub>3</sub>-sar-ak",
+            "U<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 1136",
             "1136",
-            "u₃-gal-zi",
-            "U₃",
+            "u<sub>3</sub>-gal-zi",
+            "U<sub>3</sub>",
             ";",
             ""
         ],
@@ -9100,15 +9100,15 @@
             "VE 1138",
             "1138",
             "bar",
-            "U₃",
+            "U<sub>3</sub>",
             ";",
             ""
         ],
         [
             "VE 1139",
             "1139",
-            "u₃-gal-gal",
-            "U₃",
+            "u<sub>3</sub>-gal-gal",
+            "U<sub>3</sub>",
             ";",
             ""
         ],
@@ -9123,7 +9123,7 @@
         [
             "VE 1141",
             "1141",
-            "mu-tum₂",
+            "mu-tum<sub>2</sub>",
             "MU",
             ";",
             ""
@@ -9131,7 +9131,7 @@
         [
             "VE 1142",
             "1142",
-            "mumu₄",
+            "mumu<sub>4</sub>",
             "MU",
             ";",
             ""
@@ -9147,7 +9147,7 @@
         [
             "VE 1144",
             "1144",
-            "mu-ni₂(LAK377)-za",
+            "mu-ni<sub>2</sub>(LAK377)-za",
             "MU",
             ";",
             ""
@@ -9155,7 +9155,7 @@
         [
             "VE 1145",
             "1145",
-            "mu-ŋir₃(LAK253)!-ŋir₃",
+            "mu-ĝir<sub>3</sub>(LAK253)!-ĝir<sub>3</sub>",
             "MU",
             ";",
             ""
@@ -9212,7 +9212,7 @@
             "VE 1152",
             "1152",
             "uru",
-            "GAL₄",
+            "GAL<sub>4</sub>",
             ";",
             ""
         ],
@@ -9220,7 +9220,7 @@
             "VE 1153",
             "1153",
             "lukur",
-            "GAL₄",
+            "GAL<sub>4</sub>",
             ";",
             ""
         ],
@@ -9228,7 +9228,7 @@
             "VE 1154",
             "1154",
             "sikil",
-            "GAL₄",
+            "GAL<sub>4</sub>",
             ";",
             ""
         ],
@@ -9244,7 +9244,7 @@
             "VE 1156",
             "1156",
             "munus-zimušen",
-            "GAL₄",
+            "GAL<sub>4</sub>",
             ";",
             ""
         ],
@@ -9252,7 +9252,7 @@
             "VE 1157",
             "1157",
             "munus-TIN×ŠE",
-            "GAL₄",
+            "GAL<sub>4</sub>",
             ";",
             ""
         ],
@@ -9260,15 +9260,15 @@
             "VE 1158",
             "1158",
             "munus-muḫaldim",
-            "GAL₄",
+            "GAL<sub>4</sub>",
             ";",
             ""
         ],
         [
             "VE 1159",
             "1159",
-            "ŋiri₂::sal",
-            "GAL₄",
+            "ĝiri<sub>2</sub>::sal",
+            "GAL<sub>4</sub>",
             ";",
             ""
         ],
@@ -9276,7 +9276,7 @@
             "VE 1160",
             "1160",
             "munus",
-            "GAL₄",
+            "GAL<sub>4</sub>",
             ";",
             ""
         ],
@@ -9291,7 +9291,7 @@
         [
             "VE 1162",
             "1162",
-            "dub-la₂",
+            "dub-la<sub>2</sub>",
             "DUB",
             ";",
             ""
@@ -9332,70 +9332,70 @@
             "VE 1167",
             "1167",
             "dub",
-            "ILA₂",
+            "ILA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1168",
             "1168",
-            "ila₂",
-            "ILA₂",
+            "ila<sub>2</sub>",
+            "ILA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1169",
             "1169",
-            "ila₂-NE",
-            "ILA₂",
+            "ila<sub>2</sub>-NE",
+            "ILA<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1170",
             "1170",
-            "KAD₄38",
-            "EŠ₂",
+            "KAD<sub>4</sub>38",
+            "EŠ<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1171",
             "1171",
-            "ŠE₃-LI",
-            "EŠ₂",
+            "ŠE<sub>3</sub>-LI",
+            "EŠ<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1172",
             "1172",
-            "eš₂-dur",
-            "EŠ₂",
+            "eš<sub>2</sub>-dur",
+            "EŠ<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1173",
             "1173",
-            "zid₂-gug₂",
-            "EŠ₂",
+            "zid<sub>2</sub>-gug<sub>2</sub>",
+            "EŠ<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1174",
             "1174",
-            "gana₂-eš₂",
-            "EŠ₂",
+            "gana<sub>2</sub>-eš<sub>2</sub>",
+            "EŠ<sub>2</sub>",
             ";",
             ""
         ],
         [
             "VE 1175",
             "1175",
-            "zid₂",
+            "zid<sub>2</sub>",
             "ZAG",
             ";",
             ""
@@ -9403,7 +9403,7 @@
         [
             "VE 1176",
             "1176",
-            "zag-us₂",
+            "zag-us<sub>2</sub>",
             "ZAG",
             ";",
             ""
@@ -9419,7 +9419,7 @@
         [
             "VE 1178",
             "1178",
-            "zag-e₃",
+            "zag-e<sub>3</sub>",
             "ZAG",
             ";",
             ""
@@ -9427,7 +9427,7 @@
         [
             "VE 1179",
             "1179",
-            "zag-ŋiri₂",
+            "zag-ĝiri<sub>2</sub>",
             "ZAG",
             ";",
             ""
@@ -9435,7 +9435,7 @@
         [
             "VE 1180",
             "1180",
-            "zag-ŋiri₂-ak",
+            "zag-ĝiri<sub>2</sub>-ak",
             "ZAG",
             ";",
             ""
@@ -9467,7 +9467,7 @@
         [
             "VE 1184",
             "1184",
-            "la₂-la₂",
+            "la<sub>2</sub>-la<sub>2</sub>",
             "Varia",
             ";",
             ""
@@ -9483,7 +9483,7 @@
         [
             "VE 1186",
             "1186",
-            "⸢pu₂⸣",
+            "⸢pu<sub>2</sub>⸣",
             "LAGAB",
             ";",
             ""
@@ -9499,7 +9499,7 @@
         [
             "VE 1188",
             "1188",
-            "LAGAB×SIG₇.ME",
+            "LAGAB×SIG<sub>7</sub>.ME",
             "Wild animals",
             ";",
             ""
@@ -9515,7 +9515,7 @@
         [
             "VE 1190",
             "1190",
-            "⸢kiši₆(LAK263)⸣-[ga]⸢mušen⸣",
+            "⸢kiši<sub>6</sub>(LAK263)⸣-[ga]⸢mušen⸣",
             "Wild animals",
             ";",
             ""
@@ -9523,7 +9523,7 @@
         [
             "VE 1191",
             "1191",
-            "mašdaₓ(LAK263)maš-da₃",
+            "mašdaₓ(LAK263)maš-da<sub>3</sub>",
             "Wild animals",
             ";",
             ""
@@ -9547,7 +9547,7 @@
         [
             "VE 1194",
             "1194",
-            "e₁₁",
+            "e<sub>11</sub>",
             "DUL",
             ";",
             ""
@@ -9555,7 +9555,7 @@
         [
             "VE 1195",
             "1195",
-            "nu-e₁₁",
+            "nu-e<sub>11</sub>",
             "DUL",
             ";",
             ""
@@ -9571,7 +9571,7 @@
         [
             "VE 1197",
             "1197",
-            "⸢zar₃⸣-dul",
+            "⸢zar<sub>3</sub>⸣-dul",
             "Varia",
             ";",
             ""
@@ -9579,7 +9579,7 @@
         [
             "VE 1198",
             "1198",
-            "bar-an-barag₂",
+            "bar-an-barag<sub>2</sub>",
             "Varia",
             ";",
             ""
@@ -9587,7 +9587,7 @@
         [
             "VE 1199",
             "1199",
-            "ur₃!(SILA₄)",
+            "ur<sub>3</sub>!(SILA<sub>4</sub>)",
             "Varia",
             ";",
             ""
